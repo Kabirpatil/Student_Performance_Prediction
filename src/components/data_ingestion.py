@@ -1,0 +1,1 @@
+#REading data from the databaseses is know as the data ingestion. The process of reading data from a database and loading
