@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Student Performance Prediction</title>
+<style>
+/* General Styles */
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
+}
+
+/* Header Styles */
+header{
+  background-color: #4CAF50;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+  font-size: 36px;
+}
+
+/* Main Content Styles */
+main {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  color: #4CAF50;
+}
+
+.feature-section {
+  display: flex;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.feature-section img {
+  max-width: 300px;
+  margin-right: 40px;
+}
+
+.feature-section p {
+  line-height: 1.6;
+}
+
+/* Footer Styles */
+footer {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+</style>
+
+</head>
+<body>
+  <header>
+    <h1>Student Performance Prediction</h1>
+  </header>
+
+  <main>
+    <h2>Welcome to our Student Performance Prediction Platform</h2>
+    <p>Our platform uses advanced analytics and machine learning to provide insights into student performance and help you make informed decisions.</p>
+
+    <div class="feature-section">
+      <img src="{{ url_for('static', filename='images/chart.jpg') }}" alt="Interactive Charts">
+      <div>
+        <h3>Interactive Charts</h3>
+        <p>Visualize student performance data with our interactive charts and graphs. Gain a deeper understanding of trends and patterns.</p>
+      </div>
+    </div>
+
+    <div class="feature-section">
+      <img src="{{ url_for('static', filename='images/analytics.jpg') }}" alt="Predictive Analytics">
+      <div>
+        <h3>Predictive Analytics</h3>
+        <p>Our predictive analytics tools analyze historical data to forecast future student performance and identify areas for improvement.</p>
+      </div>
+    </div>
+
+    <div class="feature-section">
+      <img src="{{ url_for('static', filename='images/resources.jpg') }}" alt="Resource Library">
+      <div>
+        <h3>Resource Library</h3>
+        <p>Explore our comprehensive resource library with study tips, educational articles, and recommended materials to support student success.</p>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <p>&copy; 2024 Student Performance Prediction. All rights reserved.</p>
+  </footer>
+</body>
+</html> 
+

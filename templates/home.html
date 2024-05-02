@@ -1,0 +1,153 @@
+<html>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        .login {
+            width: 400px;
+            margin: 50px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        .form-label {
+            font-weight: bold;
+        }
+
+        .form-control {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+            box-sizing: border-box;
+        }
+
+        .btn-primary {
+            width: 100%;
+            padding: 10px;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 3px;
+            cursor: pointer;
+        }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+        }
+
+        h2 {
+            text-align: center;
+            margin-top: 20px;
+        }
+    </style>
+<body>
+    <div class="login">
+       <h1>Student Exam Performance Prediction</h1>
+   
+       <form action="{{ url_for('predict_datapoint')}}" method="POST">
+    
+        <div class="mb-3">
+            <label class="form-label">Name</label>
+            <input class="form-control" type="text" name="Name" placeholder="Enter your Name" required>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Gender</label>
+            <select class="form-control" name="Gender" placeholder="Enter you Gender" required>
+                <option class="placeholder" selected disabled value="">Select your Gender</option>
+                <option value="Male">
+                    Male
+                </option>
+                <option value="Female">
+                    Female
+                </option>
+            </select>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Sleep_type</label>
+            <select class="form-control" name="Sleep_type" placeholder="Enter your Sleep_type" required>
+                <option class="placeholder" selected disabled value="Full">Select Sleep_type</option>
+                <option value="full">
+                    full
+                </option>
+                <option value="half">
+                    half
+                </option>
+            </select>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">screen_time</label>
+            <select class="form-control" name="screen_time"
+                placeholder="Enter your screen_time" required>
+                <option class="placeholder" selected disabled value="">Select your screen_time</option>
+                <option value="excessive">
+                    excessive
+                </option>
+                <option value="negligible">
+                    negligible
+                </option>
+                <option value="moderate">
+                    moderate
+                </option>
+            </select>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Lunch Type</label>
+            <select class="form-control" name="Lunch_type" placeholder="Enter you Lunch" required>
+                <option class="placeholder" selected disabled value="">Select your Lunch Type</option>
+                <option value="acidic">
+                    acidic
+                </option>
+                <option value="basic">
+                    basic
+                </option>
+            </select>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Study Preparation	</label>
+            <select class="form-control" name="study_preparation" placeholder="Enter you Course"
+                required>
+                <option class="placeholder" selected disabled value="">Select Test_course</option>
+                <option value="not prepared">
+                    not prepared
+                </option>
+                <option value="partially prepared">
+                    partially prepared
+                </option>
+                <option value="fully prepared">
+                    fully prepared
+                </option>
+               
+            </select>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Cat_1 Score out of 100</label>
+            <input class="form-control" type="number" name="Cat_1"
+                placeholder="Enter your Cat-1 score" min='0' max='100' />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Cat_2 Score out of 100</label>
+            <input class="form-control" type="number" name="Cat_2"
+                placeholder="Enter your Cat-2 Score" min='0' max='100' />
+        </div>
+        <div class="mb-3">
+            <input class="btn btn-primary" type="submit" value="Predict your Cummalitive Grade Point(CGPA)" required />
+        </div>
+    </form>
+    <h2>
+       THE  prediction is {{results}} CGPA
+    </h2>
+   <body>
+</html>

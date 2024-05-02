@@ -1,1001 +1,1001 @@
-Student_Name,Gender,Lunch_type,Sleep_type,screen_time,study_preparation,Cat_1,Cat_2,Previous_Cgpa
-Suzie enzley,Female,acidic,full,excessive,not prepared,72,74,72
-Brynne Lightbown,Female,basic,full,negligible,partially prepared,90,88,69
-Aleda Alker,Female,acidic,full,negligible,fully prepared,95,93,90
-Giles Danilchev,Male,acidic,half,negligible,partially prepared,57,44,47
-Eziechiele Zum Felde,Male,acidic,full,excessive,partially prepared,78,75,76
-Lexis Plaister,Female,acidic,half,negligible,not prepared,83,78,71
-Tate Gilliam,Male,basic,full,excessive,not prepared,95,92,88
-Berky Pechan,Male,basic,half,moderate,fully prepared,43,39,40
-Ezechiel Liversley,Male,acidic,half,excessive,partially prepared,64,67,64
-Klarika Dybald,Female,basic,full,moderate,not prepared,60,50,38
-Buckie Florentine,Male,acidic,half,negligible,not prepared,54,52,58
-Preston Britee,Male,acidic,full,moderate,fully prepared,52,43,40
-Northrop Camelia,Male,acidic,full,moderate,not prepared,81,73,65
-Tanney Ceyssen,Male,acidic,half,moderate,not prepared,72,70,78
-Aldus Gilhouley,Male,acidic,half,moderate,fully prepared,53,58,50
-Alfi Grahamslaw,Female,acidic,half,excessive,not prepared,75,78,69
-Upton Laverty,Male,acidic,full,moderate,fully prepared,89,86,88
-Adolphus Ivankin,Male,acidic,half,moderate,partially prepared,32,28,18
-Tan Edmed,Male,basic,half,moderate,fully prepared,42,46,46
-Cyril Treadgold,Male,basic,half,excessive,fully prepared,58,61,54
-Malchy Gregori,Male,acidic,half,moderate,partially prepared,69,63,66
-Adam Marquot,Male,basic,full,excessive,partially prepared,75,70,65
-Wynn Tupie,Male,basic,half,negligible,fully prepared,54,53,44
-Eddy Handke,Male,acidic,full,negligible,partially prepared,73,73,69
-Karlik Seadon,Male,acidic,half,moderate,fully prepared,71,80,74
-Sharona Rawcliffe,Female,basic,full,excessive,fully prepared,74,72,73
-Laney Widdop,Female,basic,full,excessive,fully prepared,54,55,69
-Jamal Fright,Male,acidic,half,negligible,not prepared,69,75,67
-Amelia Copes,Female,acidic,half,negligible,not prepared,70,65,70
-Romeo Gremain,Male,basic,full,excessive,partially prepared,70,75,62
-Reggi MacGaffey,Female,acidic,half,negligible,fully prepared,74,74,69
-Amie Pracy,Female,basic,half,moderate,not prepared,65,61,63
-Margalo Gianni,Female,basic,half,moderate,fully prepared,72,65,56
-Laney Pendred,Female,acidic,half,excessive,not prepared,42,38,40
-Chandra Balcock,Female,acidic,half,moderate,partially prepared,87,82,97
-Carson Bourgour,Male,acidic,full,negligible,partially prepared,81,79,81
-Rosalind Ivashnikov,Female,basic,full,negligible,partially prepared,81,83,74
-Valle Skeemer,Male,acidic,full,negligible,fully prepared,64,59,50
-Darbee Haigh,Male,acidic,half,excessive,partially prepared,90,88,75
-Yves Markie,Male,basic,half,excessive,not prepared,56,57,57
-Barney O'Fihily,Male,acidic,full,negligible,partially prepared,61,54,55
-Dalila Cressar,Female,acidic,half,moderate,fully prepared,73,68,58
-Rosamond Clotworthy,Female,basic,full,moderate,partially prepared,58,65,53
-Quentin Roon,Female,acidic,full,excessive,not prepared,65,66,59
-Rickie Blakeden,Male,basic,half,moderate,partially prepared,56,54,50
-Alyss Braund,Female,acidic,full,excessive,not prepared,54,57,65
-Loree Cess,Female,basic,half,negligible,not prepared,65,62,55
-Lief Cocke,Male,acidic,full,excessive,not prepared,71,76,66
-Stephanus Wedlake,Male,acidic,full,moderate,partially prepared,74,76,57
-Cesaro Plaschke,Male,basic,half,excessive,not prepared,84,82,82
-Sidney Temperley,Male,basic,full,excessive,not prepared,55,48,53
-Ainsley Ugoletti,Female,basic,half,negligible,partially prepared,69,68,77
-Alix Cragoe,Male,acidic,half,negligible,not prepared,44,42,53
-Ailis Kubas,Female,basic,half,excessive,fully prepared,78,75,88
-Ann Bille,Female,acidic,full,moderate,not prepared,84,87,71
-Ralina Oatley,Female,basic,half,negligible,partially prepared,41,43,33
-Issy Philips,Female,acidic,half,excessive,not prepared,85,86,82
-Sheryl Chichgar,Female,acidic,full,moderate,fully prepared,55,49,52
-Dorie Shalliker,Male,basic,full,excessive,partially prepared,59,58,58
-Ebeneser Meekings,Male,basic,half,moderate,partially prepared,17,10,0
-Abelard Caunt,Male,acidic,half,excessive,fully prepared,74,72,79
-Leda Shufflebotham,Female,basic,full,negligible,fully prepared,39,34,39
-Wilfred MacGruer,Male,basic,half,excessive,partially prepared,61,55,62
-Yorgos Burkert,Male,acidic,full,moderate,partially prepared,80,71,69
-Jo Richard,Male,basic,half,moderate,fully prepared,58,59,59
-Wylie Noads,Male,acidic,half,excessive,not prepared,64,61,67
-Caria Hollyland,Female,acidic,full,excessive,partially prepared,37,37,45
-Devonna Allsepp,Female,basic,half,excessive,not prepared,72,74,60
-Christina Lenchenko,Female,acidic,half,moderate,fully prepared,58,56,61
-Jacqueline Sidey,Female,basic,half,excessive,not prepared,64,57,39
-Humfrid Antczak,Male,basic,full,moderate,partially prepared,63,73,58
-Mareah Kenrat,Female,basic,half,excessive,partially prepared,55,63,63
-Ambrose Davio,Male,acidic,half,moderate,not prepared,51,48,41
-Muffin Flux,Male,acidic,full,moderate,partially prepared,57,56,61
-Barney Gritland,Male,acidic,full,negligible,not prepared,49,41,49
-Johanna Hounsom,Female,acidic,half,negligible,not prepared,41,38,44
-Prentice Raiker,Male,basic,full,excessive,not prepared,26,22,30
-Amery Rix,Male,acidic,full,excessive,not prepared,78,81,80
-Tasha Balazot,Female,acidic,full,excessive,fully prepared,74,72,61
-Lorilee Cash,Female,acidic,half,moderate,partially prepared,68,68,62
-Lou Kienl,Male,acidic,half,moderate,partially prepared,49,50,47
-Beulah Learmonth,Female,basic,full,excessive,not prepared,45,45,49
-Ollie Richardsson,Male,acidic,half,negligible,partially prepared,47,54,50
-Tobi Rackstraw,Female,basic,half,negligible,not prepared,64,63,72
-Dredi Philpott,Female,basic,full,excessive,not prepared,39,34,42
-Claiborne Tullot,Male,acidic,full,moderate,fully prepared,80,82,73
-Dyan Tellenbrok,Female,acidic,full,negligible,not prepared,83,88,76
-Berne Mogford,Male,basic,full,excessive,partially prepared,71,74,71
-Vikki Sperrett,Female,basic,full,moderate,partially prepared,70,67,58
-Rosina Rubinowitz,Female,acidic,half,excessive,partially prepared,86,82,73
-Morten Jobb,Male,basic,full,excessive,fully prepared,72,74,65
-Alisun MacGaffey,Female,basic,full,excessive,not prepared,34,36,27
-Cob Shercliff,Male,basic,half,negligible,partially prepared,79,71,71
-Gaultiero Allinson,Male,acidic,full,excessive,not prepared,45,50,43
-Benyamin Robyns,Male,basic,half,negligible,not prepared,86,92,79
-Rutger Allett,Male,basic,half,moderate,fully prepared,81,82,78
-Torry Cassimer,Male,acidic,half,moderate,partially prepared,66,62,65
-Thorn Habble,Male,basic,half,negligible,not prepared,72,70,63
-Bud Southwell,Male,basic,half,negligible,not prepared,67,62,58
-Izaak Springthorpe,Male,basic,full,negligible,partially prepared,67,62,65
-Addia Harvey,Female,acidic,full,excessive,not prepared,67,67,79
-Hernando Farland,Male,basic,half,negligible,not prepared,74,74,68
-Eustacia Lagden,Female,basic,half,moderate,partially prepared,91,89,85
-Horatia Bibb,Female,acidic,half,excessive,partially prepared,44,47,60
-Phoebe McEvay,Female,basic,half,negligible,partially prepared,86,90,98
-Frans Drewitt,Male,acidic,full,excessive,fully prepared,67,72,58
-Florrie Bischoff,Female,acidic,full,negligible,partially prepared,100,100,87
-Bren Brayford,Female,acidic,full,excessive,partially prepared,63,64,66
-Lynea Thynne,Female,basic,half,excessive,partially prepared,76,70,52
-Arda Tweedlie,Female,basic,full,negligible,not prepared,64,72,70
-Alfy Standbrooke,Male,acidic,half,excessive,partially prepared,89,98,77
-Patricio Girodier,Male,basic,half,excessive,not prepared,55,49,62
-Rurik Gurton,Male,acidic,half,negligible,partially prepared,53,47,54
-Gaspard Cordoba,Male,acidic,half,moderate,partially prepared,58,54,51
-Tandy Frostdyke,Female,basic,full,moderate,not prepared,100,100,99
-Rodrique Timmis,Male,basic,full,moderate,fully prepared,77,74,84
-Pincas Mussettini,Male,acidic,half,moderate,fully prepared,85,82,75
-Vanessa Crighton,Female,acidic,full,moderate,partially prepared,82,79,78
-Gil Alston,Male,acidic,half,negligible,partially prepared,63,61,51
-Germaine Yersin,Male,basic,half,excessive,not prepared,69,65,55
-Abbie Syrett,Male,acidic,half,negligible,fully prepared,92,89,79
-Barbee Avarne,Female,basic,full,moderate,fully prepared,89,92,91
-Ines Blumer,Female,acidic,full,moderate,not prepared,93,93,88
-Merill Jedrzejewsky,Male,acidic,half,negligible,not prepared,57,56,63
-Lorenza Pidon,Female,basic,full,negligible,not prepared,80,73,83
-Faber Gluyus,Male,basic,full,negligible,fully prepared,95,86,87
-Ginni Mazonowicz,Female,basic,full,moderate,fully prepared,68,67,72
-Anna McGuggy,Female,acidic,full,excessive,fully prepared,77,74,65
-Liz Spincke,Female,acidic,half,moderate,fully prepared,82,74,82
-Dido Esser,Female,acidic,half,excessive,partially prepared,49,51,51
-Felice Mabbe,Male,basic,full,excessive,fully prepared,84,82,89
-Jeniece Dwelley,Female,basic,half,moderate,not prepared,37,40,53
-Valli Roantree,Female,basic,half,negligible,fully prepared,74,70,87
-Holmes Redhead,Male,acidic,half,moderate,partially prepared,81,84,75
-Harwell Braden,Male,basic,half,negligible,partially prepared,79,75,74
-Dosi Kiltie,Female,basic,half,negligible,not prepared,55,48,58
-Wayland Crowcher,Male,acidic,half,negligible,fully prepared,54,41,51
-Lilias Vasse,Female,acidic,half,excessive,not prepared,55,56,70
-Kinnie Bodell,Male,acidic,half,negligible,not prepared,66,67,59
-Ced Cluett,Male,basic,half,negligible,not prepared,61,69,71
-Andie Bignall,Male,basic,full,negligible,fully prepared,72,71,76
-Mayne Fritchly,Male,basic,half,excessive,partially prepared,62,64,59
-Elsey Dottridge,Female,acidic,full,moderate,fully prepared,55,54,42
-Ashlen Hardstaff,Female,acidic,full,excessive,not prepared,43,47,57
-Clemente Wrintmore,Male,basic,full,moderate,not prepared,73,78,88
-Guendolen Tant,Female,acidic,full,moderate,not prepared,39,33,22
-Cherey Terrazzo,Female,acidic,full,excessive,fully prepared,84,75,88
-Madelaine Gallager,Female,acidic,half,excessive,fully prepared,68,66,73
-Daphne Bigrigg,Female,basic,full,moderate,partially prepared,75,81,68
-Amber Dietz,Female,basic,full,excessive,not prepared,100,93,100
-Ulrica Fortun,Female,basic,full,negligible,partially prepared,67,69,62
-Fifi Cerie,Female,basic,full,negligible,fully prepared,67,68,77
-Reggie Renols,Female,basic,full,excessive,fully prepared,70,66,59
-Aldwin Yandle,Male,acidic,half,excessive,fully prepared,49,47,54
-Gawen Castelin,Male,acidic,half,excessive,partially prepared,67,61,62
-Karim Blodgetts,Male,acidic,half,excessive,not prepared,89,88,70
-Linc Ballantyne,Male,basic,full,excessive,not prepared,74,78,66
-Tiebold Furbank,Male,acidic,full,moderate,fully prepared,60,60,60
-Kevin Riddington,Male,basic,half,excessive,fully prepared,86,87,61
-Sile Habbon,Female,acidic,full,negligible,fully prepared,62,64,66
-Giralda Whitten,Female,acidic,full,moderate,partially prepared,78,74,82
-Veronica Golt,Female,acidic,full,excessive,fully prepared,88,85,75
-Florette Watson,Female,basic,half,moderate,not prepared,53,52,49
-Malena Malloy,Female,basic,half,moderate,fully prepared,53,49,52
-Janaya Loncaster,Female,basic,half,moderate,fully prepared,92,91,81
-Nonnah Whawell,Female,acidic,full,excessive,fully prepared,100,100,96
-Jillie Wabe,Female,acidic,full,excessive,not prepared,51,51,53
-Leon Coale,Male,acidic,full,moderate,not prepared,76,78,58
-Robb Clethro,Male,acidic,half,moderate,partially prepared,83,78,68
-Malissa Kulvear,Female,acidic,half,negligible,not prepared,75,70,67
-Kathrine Shelley,Female,basic,half,negligible,fully prepared,73,74,72
-Jasmine Trassler,Female,acidic,half,moderate,fully prepared,88,78,94
-Demetri Albion,Male,acidic,full,negligible,fully prepared,86,81,79
-Earvin Gaddesby,Male,basic,full,moderate,not prepared,67,70,63
-Fanni Alans,Female,acidic,full,negligible,fully prepared,51,54,43
-Rowe Grooby,Female,basic,half,negligible,not prepared,91,87,81
-Juliette Abisetti,Female,acidic,half,moderate,fully prepared,54,58,46
-Phedra Eagleton,Female,basic,half,excessive,partially prepared,77,77,71
-Ambrosi Eggerton,Male,acidic,full,excessive,fully prepared,70,62,52
-Chryste Petrashov,Female,acidic,full,moderate,partially prepared,100,100,97
-Suzy Schankelborg,Female,acidic,half,moderate,fully prepared,68,75,62
-Philippine Philipp,Female,basic,full,excessive,not prepared,64,66,46
-Ines Wace,Female,acidic,half,excessive,fully prepared,50,47,50
-Maxwell Granleese,Male,acidic,full,moderate,not prepared,69,70,65
-Harman Mell,Male,acidic,half,moderate,not prepared,52,49,45
-Uriel Wrefford,Male,basic,full,excessive,partially prepared,67,65,65
-Ramonda Ekins,Female,acidic,full,negligible,partially prepared,76,65,80
-Gradeigh Goligly,Male,acidic,half,negligible,partially prepared,66,68,62
-Cassondra Domino,Female,basic,full,excessive,partially prepared,52,45,48
-Annabela Huttley,Female,basic,full,moderate,not prepared,88,87,77
-Matilde McLeish,Female,acidic,full,negligible,fully prepared,65,69,66
-Dud Woof,Male,acidic,half,negligible,not prepared,83,79,76
-Clint O'Lunney,Male,basic,full,excessive,partially prepared,64,66,62
-Kelli Grizard,Female,basic,full,negligible,partially prepared,62,62,77
-Ozzie Jacobi,Male,acidic,half,moderate,not prepared,84,85,69
-Orv Hakeworth,Male,acidic,full,negligible,not prepared,55,52,61
-Karalynn Oneal,Female,basic,full,excessive,fully prepared,69,65,59
-Estele Bruckstein,Female,acidic,full,moderate,partially prepared,56,51,55
-Massimo Ince,Male,acidic,half,excessive,not prepared,53,55,45
-Minda Fedoronko,Female,acidic,half,excessive,not prepared,79,76,78
-Jillana Pezey,Female,basic,half,negligible,not prepared,84,86,67
-Arley Aslum,Male,acidic,half,excessive,fully prepared,81,77,65
-Milo Caplis,Male,basic,half,excessive,partially prepared,77,69,69
-Melonie Yarrow,Female,basic,half,negligible,not prepared,69,68,57
-Elene Belly,Female,basic,half,negligible,partially prepared,41,42,59
-Hildy Beacock,Female,basic,full,moderate,not prepared,71,78,74
-Duncan Alstead,Male,basic,half,moderate,fully prepared,62,62,82
-Dorothea Arckoll,Female,basic,full,negligible,partially prepared,80,76,81
-Kristian Brearton,Male,acidic,half,moderate,partially prepared,81,76,74
-Sabine Bassett,Female,acidic,full,negligible,fully prepared,61,66,58
-Conan Pagden,Male,basic,half,negligible,fully prepared,79,79,80
-Englebert Henaughan,Male,basic,half,negligible,fully prepared,28,27,35
-Gaspard Outridge,Male,basic,half,moderate,partially prepared,62,60,42
-Charity Lamswood,Female,acidic,full,excessive,not prepared,51,56,60
-Regan Ghelarducci,Male,basic,half,excessive,not prepared,91,81,87
-Kirby Heinschke,Female,acidic,half,moderate,not prepared,83,75,84
-Javier Gabby,Male,basic,half,negligible,partially prepared,86,88,83
-Datha Sommerlin,Female,basic,half,excessive,fully prepared,42,39,34
-Kayley Sertin,Female,acidic,half,excessive,fully prepared,77,70,66
-Halie Bunning,Female,basic,half,negligible,partially prepared,56,56,61
-Preston Ardley,Male,basic,half,negligible,fully prepared,68,74,56
-Robin Rowth,Female,basic,half,negligible,not prepared,85,73,87
-Fiann Andresser,Female,basic,half,excessive,partially prepared,65,62,55
-Mike Brosetti,Male,acidic,full,moderate,fully prepared,80,75,86
-Jamie Delacourt,Female,basic,half,moderate,not prepared,66,73,52
-Erskine Lapree,Male,basic,half,negligible,fully prepared,56,54,45
-Amalita D'Oyly,Female,basic,full,moderate,fully prepared,72,71,72
-Brant Filtness,Male,acidic,half,negligible,fully prepared,50,54,57
-Lincoln Ritelli,Male,acidic,half,negligible,fully prepared,72,64,68
-Aigneis Rothwell,Female,basic,full,moderate,not prepared,95,94,88
-Joly Wrintmore,Female,basic,full,moderate,not prepared,64,66,76
-Benny Gawne,Male,basic,half,moderate,fully prepared,43,42,46
-Carolyn Saing,Female,acidic,half,negligible,fully prepared,86,83,67
-Michaela Gowrie,Female,acidic,full,negligible,partially prepared,87,78,92
-Lynn Mengue,Female,acidic,full,excessive,fully prepared,82,84,83
-Carissa Kiddye,Female,acidic,half,excessive,not prepared,75,77,80
-Muffin Ure,Female,acidic,full,excessive,not prepared,66,67,63
-Burg Fauning,Male,basic,full,excessive,not prepared,60,74,64
-Suzanne Sherringham,Female,basic,full,moderate,fully prepared,52,51,54
-Kevin Culleford,Male,basic,half,negligible,not prepared,80,80,84
-Marianna Beddow,Female,basic,half,moderate,partially prepared,68,66,73
-Salome Drains,Female,basic,half,negligible,fully prepared,83,83,80
-Marcellina Bedborough,Female,acidic,half,excessive,not prepared,52,55,56
-Ximenez Omrod,Male,acidic,half,excessive,not prepared,51,43,59
-Symon Lias,Male,basic,half,negligible,not prepared,74,69,75
-Kaylil Killimister,Female,acidic,full,moderate,partially prepared,76,71,85
-Nick Portis,Male,acidic,half,moderate,not prepared,76,74,89
-Reidar Ribou,Male,acidic,half,moderate,fully prepared,70,68,58
-Dolf Mousley,Male,basic,half,moderate,fully prepared,64,62,65
-Winnifred Lightollers,Female,acidic,half,negligible,not prepared,60,53,68
-Pall Sandars,Male,acidic,half,moderate,not prepared,49,49,47
-Cele Faltin,Female,basic,half,moderate,not prepared,83,83,71
-Marrilee Beldom,Female,basic,full,excessive,not prepared,70,70,60
-Win Van Eeden,Male,basic,half,negligible,not prepared,80,72,80
-Bent Larwood,Male,acidic,half,moderate,partially prepared,52,52,54
-Gelya Duffie,Female,basic,full,excessive,fully prepared,73,70,62
-Griselda Stapleton,Female,basic,half,negligible,partially prepared,73,68,64
-Mike Bonnett,Male,acidic,half,moderate,not prepared,77,77,78
-Darsie Biddell,Female,basic,half,moderate,fully prepared,75,78,70
-Wallie Damiata,Male,acidic,full,excessive,not prepared,81,81,65
-Bertha Theseira,Female,acidic,half,negligible,fully prepared,79,77,64
-Jeniffer Vairow,Female,basic,full,excessive,partially prepared,79,78,79
-Wilone Erbe,Female,acidic,full,excessive,partially prepared,50,51,44
-Emilie Mauser,Female,basic,full,moderate,not prepared,93,90,99
-Ezekiel Frenzel;,Male,basic,full,negligible,not prepared,73,68,76
-Travus Harker,Male,basic,full,excessive,fully prepared,42,41,59
-Hilda Scotchmor,Female,basic,full,negligible,fully prepared,75,81,63
-Earlie Beumant,Male,basic,full,moderate,fully prepared,72,77,69
-Erminie Scanlin,Female,acidic,half,excessive,partially prepared,92,95,88
-Matthias Twizell,Male,acidic,full,negligible,partially prepared,76,70,71
-Lanae Tolomelli,Female,acidic,full,negligible,partially prepared,63,61,69
-Thoma Korf,Male,acidic,half,negligible,not prepared,49,42,58
-Danna Gergolet,Female,acidic,half,moderate,not prepared,53,58,47
-Erma Seegar,Female,acidic,full,negligible,partially prepared,70,71,65
-Jamal Pinches,Male,basic,half,excessive,fully prepared,85,76,88
-Armando Gatcliff,Male,basic,full,excessive,fully prepared,78,73,83
-Marya McGill,Female,acidic,half,moderate,partially prepared,92,93,85
-Eliza Kleinstern,Female,acidic,half,negligible,partially prepared,63,75,59
-Sophia Ashall,Female,basic,full,excessive,partially prepared,86,80,65
-Lauryn Jaouen,Female,acidic,half,moderate,partially prepared,56,57,73
-Yvette Dils,Female,acidic,full,moderate,partially prepared,52,42,53
-Kirby Lode,Male,basic,half,moderate,partially prepared,48,46,45
-Lesly Kilban,Female,basic,half,excessive,fully prepared,79,84,73
-Dene Petriello,Male,basic,full,excessive,partially prepared,78,78,70
-Cody Bremond,Male,acidic,full,excessive,fully prepared,46,46,37
-Cal Pentecost,Female,basic,full,negligible,not prepared,82,82,81
-Nadiya Barrow,Female,acidic,half,moderate,not prepared,82,88,97
-Isador Pierri,Male,basic,full,moderate,not prepared,89,82,67
-Kennie Andryszczak,Male,acidic,full,negligible,fully prepared,75,76,88
-Janka Aikenhead,Female,basic,full,excessive,not prepared,76,77,77
-Jordan Wharton,Male,basic,full,moderate,partially prepared,70,68,76
-Kingston Vanyushin,Male,basic,full,negligible,fully prepared,73,70,86
-Eolande Vedstra,Female,acidic,full,moderate,not prepared,60,57,63
-Beth Conerding,Female,acidic,half,excessive,partially prepared,73,75,65
-Giordano Larking,Male,acidic,full,negligible,not prepared,77,80,78
-Layton Nozzolinii,Male,acidic,half,excessive,fully prepared,62,60,67
-Rosalia Tilson,Female,basic,full,moderate,not prepared,41,43,46
-Ingemar Lung,Male,basic,full,moderate,fully prepared,74,68,71
-Jervis Lefort,Male,acidic,half,negligible,fully prepared,46,50,40
-Godfree Briiginshaw,Male,basic,half,negligible,fully prepared,87,75,90
-Aile Organ,Female,acidic,full,excessive,not prepared,78,81,81
-Verla Greenough,Female,acidic,half,excessive,partially prepared,54,52,56
-Franchot Chansonnau,Male,basic,full,negligible,not prepared,84,81,67
-Rivalee Spleving,Female,acidic,half,excessive,partially prepared,76,64,80
-Brendin Gornar,Male,basic,full,moderate,not prepared,75,83,74
-Uriah Volette,Male,acidic,full,moderate,partially prepared,67,69,69
-Ware Stares,Male,basic,half,moderate,not prepared,87,81,99
-Jourdan Skym,Female,acidic,full,excessive,not prepared,52,44,51
-Gypsy Sayton,Female,basic,full,excessive,fully prepared,71,67,53
-Caresa Nurcombe,Female,basic,full,negligible,not prepared,57,52,49
-Monty Atwater,Male,basic,half,moderate,not prepared,76,80,73
-Farrand Gothrup,Female,acidic,full,moderate,partially prepared,60,57,66
-Farly Lusty,Male,acidic,full,negligible,partially prepared,61,68,67
-Warden Penquet,Male,basic,full,moderate,partially prepared,67,69,68
-Fields Mungane,Male,basic,full,moderate,partially prepared,64,75,59
-Vita Drinkel,Female,acidic,half,negligible,fully prepared,66,65,71
-Jordan Bruyett,Female,acidic,full,negligible,not prepared,82,91,77
-Abigale Tremble,Female,acidic,half,negligible,partially prepared,72,78,83
-Giuditta Simka,Female,acidic,full,negligible,fully prepared,71,69,63
-Roxie Joseff,Female,acidic,full,negligible,partially prepared,65,63,56
-Dani Sabben,Male,basic,full,negligible,not prepared,79,84,67
-Vonni Calley,Female,basic,full,excessive,not prepared,86,79,75
-Beatrisa Lethbridge,Female,basic,full,negligible,not prepared,81,80,71
-Logan Balme,Male,basic,full,moderate,not prepared,53,53,43
-Adrea Sygrove,Female,basic,full,excessive,fully prepared,46,43,41
-Janessa Bakes,Female,basic,full,excessive,fully prepared,90,94,82
-Kym Tonbridge,Female,acidic,full,moderate,partially prepared,61,62,61
-Lula Detoile,Female,basic,full,moderate,partially prepared,23,19,28
-Tades Ianittello,Male,basic,half,negligible,partially prepared,75,77,82
-Angil Clink,Female,acidic,half,negligible,partially prepared,55,51,41
-Augustine Steanson,Male,basic,half,negligible,fully prepared,60,61,71
-Solomon Howsego,Male,basic,half,excessive,partially prepared,37,35,47
-Ardys Campelli,Female,basic,half,excessive,not prepared,56,53,62
-Raimondo Weins,Male,acidic,half,excessive,partially prepared,78,81,90
-Venus Shepeard,Female,acidic,half,moderate,fully prepared,93,95,83
-Shalom Raddenbury,Male,basic,full,negligible,not prepared,68,66,61
-Min Loughlin,Female,basic,half,negligible,not prepared,70,69,76
-Desi Elliot,Male,acidic,half,moderate,partially prepared,51,43,49
-Agustin Quadrio,Male,basic,half,moderate,fully prepared,38,27,24
-Gaynor Cretney,Female,basic,full,moderate,partially prepared,55,60,35
-Bronny Shenfisch,Male,basic,half,negligible,fully prepared,61,52,58
-Gabbi Breddy,Female,basic,half,excessive,partially prepared,73,63,61
-Hetty Ferencz,Female,acidic,full,moderate,not prepared,76,74,69
-Lauralee Poznanski,Female,acidic,full,negligible,partially prepared,72,67,67
-Agnes Imos,Female,basic,full,negligible,fully prepared,73,67,79
-Sandie Willett,Female,basic,full,negligible,not prepared,80,75,72
-Laird Thomazet,Male,basic,half,moderate,not prepared,61,57,62
-Nikolos Zorro,Male,acidic,half,moderate,not prepared,94,95,77
-Fleming Ravenshaw,Male,acidic,full,excessive,not prepared,74,66,75
-Isis Flello,Female,acidic,half,negligible,not prepared,74,76,87
-Risa Ellesworthe,Female,acidic,half,moderate,fully prepared,65,69,52
-Donavon Allenby,Male,basic,half,negligible,fully prepared,57,52,66
-Sonja Connichie,Female,acidic,half,negligible,partially prepared,78,80,63
-Dot Ingray,Female,basic,full,excessive,fully prepared,58,57,46
-Freddy Trattles,Female,basic,half,excessive,partially prepared,71,70,59
-Edgardo Scotchbrook,Male,basic,half,negligible,not prepared,72,70,61
-Jacquelynn Josefsohn,Female,acidic,full,negligible,not prepared,61,61,63
-Dani Witchell,Male,acidic,full,excessive,partially prepared,66,69,42
-Lazaro Reimer,Male,basic,half,negligible,partially prepared,62,61,59
-Gilli Croom,Female,acidic,full,excessive,not prepared,90,89,80
-Duncan Blunsom,Male,acidic,half,negligible,partially prepared,62,59,58
-Merci Moriarty,Female,basic,full,negligible,not prepared,84,78,85
-Ramona Olyfat,Female,acidic,half,moderate,not prepared,58,58,52
-Harley Lesurf,Male,basic,full,excessive,partially prepared,34,32,27
-Jean Eltone,Female,acidic,full,excessive,fully prepared,60,58,59
-Kipp De Micoli,Male,basic,half,moderate,fully prepared,58,60,49
-Hill Woolcocks,Male,acidic,half,negligible,partially prepared,58,53,69
-Alejandra Gane,Female,basic,full,moderate,not prepared,66,61,61
-Margery Pocknell,Female,acidic,half,excessive,fully prepared,64,58,44
-Tamarah Indruch,Female,basic,full,excessive,fully prepared,84,85,73
-Faith Phipson,Female,basic,full,negligible,not prepared,77,71,84
-Correna Stoltz,Female,acidic,half,excessive,partially prepared,73,70,45
-Feodor Pobjoy,Male,acidic,half,excessive,not prepared,74,72,74
-Patric Honniebal,Male,acidic,full,excessive,fully prepared,97,96,82
-Yule Crother,Male,basic,half,excessive,fully prepared,70,73,59
-Lonee Friatt,Female,acidic,full,excessive,partially prepared,43,41,46
-Caryn Silbermann,Female,basic,full,negligible,fully prepared,90,82,80
-Raddy Linklater,Male,basic,full,moderate,fully prepared,95,100,85
-Cchaddie Isakowicz,Male,basic,half,excessive,partially prepared,83,77,71
-Hastie Alfonsetto,Male,basic,full,excessive,partially prepared,64,62,66
-Elizabeth Garrettson,Female,basic,half,moderate,partially prepared,86,83,80
-Dorrie Spyby,Female,basic,full,moderate,partially prepared,100,95,87
-Sunny Spier,Male,basic,full,excessive,not prepared,81,71,79
-Bonnee Dunham,Female,basic,full,excessive,partially prepared,49,45,38
-Susie Morehall,Female,basic,full,moderate,fully prepared,43,43,38
-Brandie Frankis,Female,acidic,half,excessive,fully prepared,76,75,67
-Timmy Fallowfield,Female,acidic,half,excessive,not prepared,73,70,64
-Lyle Morfey,Male,basic,full,negligible,fully prepared,78,67,57
-Louise Kenton,Female,basic,half,excessive,fully prepared,64,64,62
-Sheree Gronou,Female,acidic,half,excessive,fully prepared,70,75,73
-Culley Woolmer,Male,basic,full,excessive,not prepared,67,59,73
-Wilden Christou,Male,acidic,half,moderate,fully prepared,68,77,77
-Gian Petrolli,Male,basic,full,excessive,partially prepared,67,67,76
-Linnea Schapero,Female,basic,full,negligible,fully prepared,54,56,57
-Lorenzo Dusting,Male,basic,half,moderate,partially prepared,74,77,65
-Dov Banford,Male,basic,full,negligible,fully prepared,45,41,48
-Kayla Synke,Female,acidic,half,negligible,partially prepared,67,63,50
-Lucretia MacElharge,Female,basic,full,excessive,not prepared,89,95,85
-Harold Sellar,Male,acidic,full,excessive,not prepared,63,57,74
-Pen Gabala,Male,basic,full,negligible,partially prepared,59,54,60
-Rhett Wealthall,Male,acidic,half,excessive,not prepared,54,67,59
-Derk Ibbitt,Male,acidic,full,moderate,partially prepared,43,43,53
-Erick Beggi,Male,basic,full,excessive,partially prepared,65,55,49
-Tiebout Brydon,Male,basic,half,excessive,partially prepared,99,100,88
-Calley Tesimon,Female,basic,full,moderate,fully prepared,59,62,54
-Camile Screas,Female,acidic,full,excessive,partially prepared,73,68,63
-Belicia Tremain,Female,acidic,half,excessive,not prepared,65,63,65
-Gloriana Wardroper,Female,acidic,full,excessive,not prepared,80,77,82
-Timoteo Pidgen,Male,basic,full,excessive,partially prepared,57,56,52
-Hugh Cutchee,Male,acidic,full,excessive,not prepared,84,85,87
-Claudine Cuckoo,Female,acidic,full,moderate,not prepared,71,74,70
-Major Caley,Male,basic,half,negligible,fully prepared,83,78,84
-Kathy Kures,Female,basic,half,negligible,fully prepared,66,60,71
-Victoir Bissill,Male,acidic,half,excessive,partially prepared,67,67,63
-Guthrie Brotherick,Male,acidic,half,moderate,not prepared,72,79,51
-Clive Clissold,Male,basic,full,moderate,fully prepared,73,69,84
-Pearl Semper,Female,basic,full,excessive,not prepared,74,68,71
-Felike Kittiman,Male,acidic,full,excessive,fully prepared,73,67,74
-Stanford Gilburt,Male,basic,full,negligible,fully prepared,59,62,68
-Sophey Canellas,Female,basic,half,negligible,partially prepared,56,54,57
-Gregorio Croci,Male,acidic,full,moderate,fully prepared,93,93,82
-Maitilde Oxlee,Female,acidic,full,moderate,not prepared,58,64,57
-Ladonna Bridgens,Female,basic,full,moderate,fully prepared,58,67,47
-Erina Tynnan,Female,acidic,half,excessive,not prepared,85,80,59
-Hakim Dudderidge,Male,acidic,full,moderate,fully prepared,39,34,41
-Laney Ovenell,Female,basic,half,excessive,partially prepared,67,62,62
-Joachim Outridge,Male,acidic,full,moderate,not prepared,83,86,86
-Alvin Sandall,Male,acidic,full,negligible,partially prepared,71,65,69
-Luce Ertel,Female,acidic,half,excessive,partially prepared,59,53,65
-Conny Manuaud,Female,basic,full,negligible,partially prepared,63,54,68
-Barth Elsmore,Male,basic,full,excessive,not prepared,66,59,64
-L;urette Teanby,Female,acidic,half,moderate,fully prepared,72,70,61
-Sheffield Quarles,Male,acidic,half,negligible,partially prepared,56,55,61
-Babette Gatherell,Female,basic,half,moderate,fully prepared,59,50,47
-Twyla Coorington,Female,acidic,half,excessive,not prepared,66,66,73
-Alanna Fretwell,Female,basic,half,negligible,partially prepared,48,53,50
-Edwina Trinkwon,Female,basic,full,negligible,fully prepared,68,64,75
-Elly Jiggins,Female,acidic,half,excessive,not prepared,66,73,75
-Dario Deaton,Male,basic,full,negligible,fully prepared,56,51,70
-Norris Stichall,Male,acidic,full,negligible,partially prepared,88,82,89
-Clerc Giamitti,Male,basic,half,moderate,not prepared,81,79,67
-Jenilee Beaulieu,Female,basic,full,moderate,not prepared,81,80,78
-Jacquenetta Szabo,Female,basic,half,negligible,fully prepared,73,69,59
-Reamonn Buglass,Male,acidic,half,negligible,partially prepared,83,76,73
-Ricard Spensley,Male,acidic,full,negligible,not prepared,82,73,79
-Kayley Balam,Female,acidic,half,moderate,fully prepared,74,77,67
-Chucho Tinmouth,Male,basic,half,moderate,fully prepared,66,60,69
-Carolann Matelaitis,Female,basic,full,excessive,not prepared,81,80,86
-Elizabet Shane,Female,acidic,full,negligible,not prepared,46,42,47
-Essie Jenckes,Female,basic,full,negligible,partially prepared,73,72,81
-Gerry Doumerque,Male,acidic,half,negligible,partially prepared,85,85,64
-Starlin Ferfulle,Female,basic,full,moderate,fully prepared,92,97,100
-Florette Sturman,Female,acidic,half,negligible,fully prepared,77,74,65
-Madison Wind,Male,basic,full,negligible,not prepared,58,49,65
-Milka Westnage,Female,acidic,full,moderate,not prepared,61,62,53
-Iolanthe Mitchelhill,Female,acidic,half,moderate,fully prepared,56,47,37
-Rosmunda Clipson,Female,acidic,half,moderate,partially prepared,89,89,79
-Bent Pretsel,Male,acidic,full,excessive,not prepared,54,48,53
-Lulita Cockson,Female,acidic,half,moderate,partially prepared,100,100,100
-Guglielma Deamer,Female,acidic,half,excessive,fully prepared,65,68,72
-Demetre Glasman,Male,basic,full,moderate,partially prepared,58,55,53
-Farand Zanassi,Female,acidic,half,excessive,not prepared,54,45,54
-Kathe Quarton,Female,acidic,half,excessive,partially prepared,70,76,71
-Cam Braybrooke,Female,basic,full,moderate,fully prepared,90,91,77
-Janelle Hassey,Female,basic,full,negligible,not prepared,58,62,75
-Rancell Bucklan,Male,basic,half,negligible,fully prepared,87,91,84
-Tremaine Billingsley,Male,acidic,half,excessive,not prepared,31,38,26
-Cheston Fannin,Male,basic,full,excessive,partially prepared,67,65,72
-Cybil Osmint,Female,basic,half,moderate,not prepared,88,85,77
-Manolo Drogan,Male,acidic,half,negligible,not prepared,74,76,91
-Dee dee Dendon,Female,basic,half,negligible,not prepared,85,90,83
-Tedman MacElroy,Male,basic,full,negligible,fully prepared,69,74,63
-Cornie Peskett,Female,acidic,half,moderate,not prepared,86,84,68
-Griffith Daventry,Male,basic,full,moderate,fully prepared,67,61,59
-Kassie Salery,Female,acidic,full,moderate,fully prepared,90,91,90
-Mason Karran,Male,basic,full,moderate,partially prepared,76,83,71
-Eugen Benettini,Male,basic,full,excessive,fully prepared,62,66,76
-Revkah Test,Female,basic,full,moderate,partially prepared,68,72,80
-Smitty Brosel,Male,acidic,half,negligible,partially prepared,64,70,55
-Olympe Francey,Female,acidic,half,moderate,fully prepared,71,67,76
-Lily Tidman,Female,acidic,full,moderate,fully prepared,71,68,73
-Krista Mingotti,Female,acidic,full,negligible,fully prepared,59,56,52
-Gerhardt Swainger,Male,acidic,full,negligible,fully prepared,68,61,68
-Orton Breewood,Male,basic,full,excessive,not prepared,52,46,59
-Marietta Maxsted,Male,acidic,half,moderate,fully prepared,52,54,49
-Mattheus Rollo,Male,basic,full,moderate,fully prepared,74,71,70
-Arlene Cadogan,Female,acidic,half,moderate,fully prepared,47,56,61
-Chauncey June,Male,basic,full,excessive,not prepared,75,74,60
-Tynan Dorn,Male,basic,half,moderate,fully prepared,53,57,64
-Reeba Canham,Female,basic,half,excessive,partially prepared,82,82,79
-Bertram Oldford,Male,basic,half,excessive,not prepared,85,76,65
-Alvis Valentetti,Male,basic,full,moderate,fully prepared,64,70,64
-Daune Sibbald,Female,basic,half,excessive,not prepared,83,90,83
-Jeannette Hesse,Female,acidic,half,negligible,partially prepared,88,90,81
-Eliza Danshin,Female,basic,half,negligible,partially prepared,64,68,54
-Maegan Oxby,Female,basic,half,excessive,partially prepared,64,66,68
-Kimble Frankiewicz,Male,basic,half,negligible,partially prepared,48,52,54
-Parker Heaney,Male,acidic,half,moderate,fully prepared,78,76,59
-Christophe Koschke,Male,basic,full,excessive,not prepared,69,68,66
-Caty Pennino,Female,acidic,full,moderate,fully prepared,71,72,76
-Wendell Budgen,Male,basic,full,excessive,partially prepared,79,82,74
-Helyn Dukes,Female,acidic,full,moderate,fully prepared,87,92,94
-Arch Siene,Male,acidic,half,moderate,not prepared,61,54,63
-Merwin Jacox,Male,basic,full,excessive,not prepared,89,92,95
-Laurella Russam,Female,basic,half,negligible,not prepared,59,54,40
-Lek Posvner,Male,basic,full,moderate,not prepared,82,80,82
-Goddart Drewett,Male,acidic,half,excessive,not prepared,70,66,68
-Blair Renak,Male,acidic,half,negligible,not prepared,59,54,55
-Vanessa Linge,Female,acidic,half,moderate,partially prepared,78,77,79
-Nichole Skewes,Female,basic,full,negligible,partially prepared,92,87,86
-Nev Durtnall,Male,basic,half,excessive,partially prepared,71,73,76
-Lura MacAvaddy,Female,basic,half,moderate,not prepared,50,43,64
-Aurea Yankishin,Female,acidic,half,moderate,not prepared,49,52,62
-Abbie Girard,Female,basic,full,negligible,fully prepared,61,62,54
-Cole Edwin,Male,basic,half,moderate,partially prepared,97,94,77
-Jase Beasleigh,Male,basic,full,negligible,fully prepared,87,85,76
-Charil Cleeves,Female,acidic,full,excessive,fully prepared,89,84,74
-Davidson Gong,Male,basic,half,excessive,not prepared,74,73,66
-Chiquia Trippack,Female,basic,half,negligible,partially prepared,78,78,66
-Scotty Kippin,Male,basic,full,excessive,partially prepared,78,79,67
-Petra Orgen,Female,acidic,full,moderate,fully prepared,49,52,71
-Bord Barneveld,Male,basic,full,excessive,partially prepared,86,84,91
-Merci Willeman,Female,basic,full,moderate,fully prepared,58,57,69
-Uriel Gridley,Male,basic,half,negligible,not prepared,59,50,54
-Conan Bolsover,Male,acidic,full,moderate,fully prepared,52,49,53
-Annamaria Skill,Female,acidic,half,negligible,fully prepared,60,59,68
-Blisse Howarth,Female,acidic,full,excessive,fully prepared,61,60,56
-Clemens Kloster,Male,basic,half,negligible,fully prepared,53,43,36
-Pam Maudlin,Female,acidic,full,negligible,not prepared,41,47,29
-Verge Coils,Male,acidic,half,excessive,fully prepared,74,70,62
-Rodrick Lockart,Male,basic,full,negligible,fully prepared,67,73,68
-Leontyne Scrine,Female,acidic,full,negligible,partially prepared,54,53,47
-Mariquilla Nockolds,Female,acidic,half,excessive,not prepared,61,58,62
-Sissie McKeevers,Female,acidic,half,moderate,not prepared,88,94,79
-Marj Stobbe,Female,acidic,full,negligible,not prepared,69,68,73
-Orin Galton,Male,acidic,full,excessive,not prepared,83,83,66
-Clarette Christoffels,Female,basic,half,moderate,fully prepared,60,58,51
-Francesco Pennycuick,Male,acidic,half,negligible,fully prepared,66,62,51
-Adaline Eadington,Female,basic,half,moderate,fully prepared,66,71,85
-Xymenes MacNeely,Male,acidic,full,moderate,not prepared,92,86,97
-Frans Klasen,Male,acidic,full,moderate,fully prepared,69,68,75
-Coretta Halcro,Female,acidic,half,excessive,not prepared,82,80,79
-Rosalie Giamo,Female,acidic,full,moderate,fully prepared,77,79,81
-Simonne Renac,Female,basic,full,excessive,partially prepared,95,89,82
-Terrijo Hexham,Female,acidic,full,negligible,fully prepared,63,66,64
-Logan Orbon,Male,basic,full,moderate,not prepared,83,80,78
-Carlynne Parradye,Female,acidic,full,moderate,fully prepared,100,97,92
-Wendie Bachanski,Female,acidic,full,negligible,not prepared,67,64,72
-Korey Biasi,Male,acidic,full,excessive,partially prepared,67,64,62
-Keene Hryncewicz,Male,basic,half,negligible,not prepared,72,69,79
-Doro Wetherby,Female,basic,half,negligible,fully prepared,76,65,79
-Georgiana Philips,Female,acidic,full,negligible,partially prepared,90,88,87
-Mord Valentine,Male,acidic,full,negligible,fully prepared,48,50,40
-Marti Beddoe,Female,basic,full,negligible,fully prepared,62,64,77
-Jermain Razzell,Male,acidic,half,moderate,partially prepared,45,40,53
-Donovan Kliner,Male,basic,half,negligible,partially prepared,39,33,32
-Orin Edington,Male,basic,full,moderate,partially prepared,72,79,55
-Elvera Fortune,Female,basic,half,negligible,fully prepared,67,66,61
-Chevy Brambill,Male,acidic,full,excessive,partially prepared,70,70,53
-Boot Beswetherick,Male,basic,half,excessive,partially prepared,66,62,73
-Bren Stephenson,Female,acidic,half,negligible,fully prepared,75,79,74
-Alvira Trethewey,Female,acidic,half,negligible,not prepared,74,74,63
-Barclay Kleine,Male,basic,half,moderate,not prepared,90,92,96
-Monique De Few,Female,basic,half,excessive,partially prepared,80,80,63
-Matty Rennix,Female,basic,full,moderate,not prepared,51,46,48
-Archibold Lasselle,Male,basic,full,excessive,fully prepared,43,45,48
-Sharron Challinor,Female,basic,half,moderate,fully prepared,100,100,92
-Hugo Duddy,Male,basic,full,excessive,fully prepared,71,78,61
-Sheena Laphorn,Female,acidic,full,negligible,fully prepared,48,47,63
-Johnathon Plumbley,Male,acidic,half,excessive,fully prepared,68,67,68
-Ellie Baglan,Female,acidic,full,negligible,partially prepared,75,70,71
-Wenonah Smidmore,Female,acidic,full,moderate,fully prepared,96,92,91
-Jelene Taree,Female,basic,full,excessive,fully prepared,62,56,53
-Gard Banaszczyk,Male,acidic,half,negligible,not prepared,66,64,50
-Bondie Smy,Male,acidic,half,moderate,fully prepared,81,71,74
-Shel Epps,Female,basic,full,moderate,partially prepared,55,53,40
-Cher Daniau,Female,basic,half,moderate,fully prepared,51,52,61
-Moise Valsler,Male,basic,half,negligible,fully prepared,91,89,81
-Sly Gossipin,Male,acidic,full,negligible,fully prepared,56,58,48
-Robb McVitty,Male,acidic,half,excessive,not prepared,61,68,53
-Cy Daddow,Male,basic,half,moderate,partially prepared,97,96,81
-Francois Cruickshank,Male,basic,full,negligible,fully prepared,79,80,77
-Kendra Gash,Female,acidic,full,moderate,partially prepared,73,78,63
-Jamill Minchinden,Male,basic,half,excessive,partially prepared,75,80,73
-Felizio Smitham,Male,acidic,half,negligible,partially prepared,77,77,69
-Carmen Antoniat,Female,basic,full,negligible,fully prepared,76,76,65
-Caesar McLane,Male,acidic,full,excessive,not prepared,73,73,55
-Bordie Kaplin,Male,acidic,full,excessive,partially prepared,63,62,44
-Brigitta Dyott,Female,acidic,half,excessive,not prepared,64,65,54
-Nona Maskill,Female,basic,full,moderate,not prepared,66,65,48
-Cary Furst,Female,basic,full,excessive,partially prepared,57,54,58
-Prissie Laxe,Female,acidic,full,moderate,not prepared,62,50,71
-Berkeley Mohammad,Male,basic,half,moderate,partially prepared,68,64,68
-Obadias Kentwell,Male,basic,full,excessive,not prepared,76,73,74
-Durant Reidshaw,Male,basic,half,moderate,fully prepared,100,99,92
-Cornela Swayte,Female,acidic,half,moderate,not prepared,79,72,56
-Moria O'Suaird,Female,acidic,full,moderate,partially prepared,24,15,30
-Moore Estcourt,Male,acidic,half,excessive,not prepared,54,48,53
-Matthew Lynn,Male,acidic,half,excessive,fully prepared,77,73,69
-Maje Cox,Male,basic,full,excessive,fully prepared,82,81,65
-Daron Giacomuzzi,Male,basic,half,negligible,partially prepared,60,63,54
-Michail Gavigan,Male,acidic,half,excessive,fully prepared,29,30,29
-Cristina Fullard,Female,acidic,full,moderate,fully prepared,78,80,76
-Tremaine Obern,Male,acidic,full,excessive,not prepared,57,51,60
-Darby Somerville,Male,basic,half,moderate,partially prepared,89,90,84
-Robers Summerhayes,Male,basic,full,excessive,not prepared,72,62,75
-Huey Cona,Male,acidic,half,negligible,fully prepared,84,82,85
-Reginald Gorsse,Male,acidic,full,excessive,not prepared,58,54,40
-Paloma Polglase,Female,basic,half,moderate,not prepared,64,62,61
-Ilise Ackermann,Female,basic,half,negligible,fully prepared,63,65,58
-Teddie Beake,Female,basic,full,moderate,partially prepared,60,63,69
-Chas Reeves,Male,basic,full,excessive,not prepared,59,66,58
-Jennifer Lowey,Female,acidic,full,excessive,fully prepared,90,91,94
-Gwenore Tampling,Female,acidic,full,excessive,not prepared,77,74,65
-Karisa Verrier,Female,acidic,full,excessive,partially prepared,93,93,82
-Janeczka Scola,Female,basic,half,negligible,fully prepared,68,72,60
-Cirstoforo Perdue,Male,basic,half,excessive,partially prepared,45,38,37
-Benedetta Lafflin,Female,acidic,full,moderate,fully prepared,78,83,88
-Berne Membry,Male,basic,full,negligible,partially prepared,81,84,95
-Ned Volet,Male,basic,full,excessive,fully prepared,73,68,65
-Birch Caroline,Male,basic,half,moderate,not prepared,61,54,35
-Ainslee Dumberell,Female,acidic,half,negligible,fully prepared,63,56,62
-Merrily Tothacot,Female,acidic,half,excessive,partially prepared,51,52,58
-Nathanael Frostdick,Male,basic,half,negligible,fully prepared,96,86,100
-Garwood Purslow,Male,acidic,full,moderate,not prepared,58,62,61
-Roscoe Dillintone,Male,basic,full,negligible,fully prepared,97,99,100
-Shurlock Havock,Male,acidic,full,excessive,fully prepared,70,63,69
-Frannie Giovannelli,Male,basic,full,excessive,not prepared,48,46,61
-Vicky Asbery,Female,acidic,half,moderate,fully prepared,57,46,49
-Zechariah Dael,Male,acidic,half,negligible,partially prepared,51,55,44
-Lilia Rykert,Female,basic,full,excessive,partially prepared,64,70,67
-Faustina Paulton,Female,acidic,half,negligible,partially prepared,60,65,79
-Dollie Flecknoe,Female,basic,half,negligible,partially prepared,74,81,66
-Tisha Iacomo,Female,basic,full,negligible,not prepared,88,85,75
-Rosamund Gadault,Female,basic,half,moderate,partially prepared,84,80,84
-Levey Nozzolinii,Male,basic,half,excessive,not prepared,74,64,71
-Evangelin Spavon,Female,basic,half,negligible,fully prepared,80,81,67
-Oswell Conor,Male,basic,full,moderate,partially prepared,92,88,80
-Mirabella Malins,Female,acidic,half,negligible,partially prepared,76,74,86
-Ninnette Gregr,Female,acidic,half,negligible,fully prepared,74,73,76
-Mildrid Walford,Female,basic,half,excessive,partially prepared,52,51,41
-Wynnie Mazzey,Female,basic,full,negligible,fully prepared,88,90,74
-Karoly Fouch,Female,basic,full,negligible,partially prepared,81,79,72
-Alanson Bart,Male,basic,full,negligible,not prepared,79,80,74
-Emlynne Dalgardno,Female,acidic,full,excessive,fully prepared,65,60,70
-Kaila Denisevich,Female,basic,half,excessive,fully prepared,81,81,65
-Tab Ablitt,Male,basic,half,moderate,fully prepared,70,65,59
-Grover Wisden,Male,acidic,half,excessive,partially prepared,62,68,64
-Leigh Yepiskov,Male,acidic,full,moderate,fully prepared,53,55,50
-Whitney Eades,Male,basic,half,moderate,partially prepared,79,81,69
-Katy Conklin,Female,acidic,half,negligible,partially prepared,56,53,51
-Kaila Lardeur,Female,basic,half,negligible,not prepared,80,76,68
-Kip Chalcot,Male,basic,full,negligible,not prepared,86,98,85
-Ertha Jepensen,Female,acidic,half,moderate,partially prepared,70,74,65
-Shaughn Giottoi,Male,acidic,full,negligible,not prepared,79,79,73
-Gisela Mearns,Female,basic,half,negligible,not prepared,67,67,62
-Rube Pashenkov,Male,basic,full,moderate,partially prepared,67,64,77
-Aggie Munnis,Female,acidic,full,negligible,partially prepared,66,61,69
-Adamo Davers,Male,acidic,half,moderate,not prepared,60,58,43
-Bryanty Huett,Male,acidic,half,excessive,partially prepared,87,85,90
-Tanhya Scoble,Female,acidic,half,moderate,partially prepared,77,73,74
-Alvin de Clercq,Male,acidic,half,excessive,fully prepared,66,63,73
-Mariel Towey,Female,acidic,half,excessive,not prepared,71,69,55
-Timi Wahlberg,Female,basic,half,negligible,partially prepared,69,67,65
-Loren Mendenhall,Female,basic,half,excessive,not prepared,63,63,80
-Cedric Harvey,Male,basic,full,negligible,fully prepared,60,60,50
-Rosaline Bastie,Female,basic,full,excessive,fully prepared,73,71,63
-Langsdon Lattimer,Male,acidic,full,negligible,not prepared,85,87,77
-Gates Ollive,Female,acidic,full,excessive,partially prepared,74,61,73
-Quinta Wynrehame,Female,acidic,half,excessive,partially prepared,72,77,81
-Zelda Farry,Female,acidic,full,negligible,partially prepared,76,68,66
-Alphonse Mortimer,Male,basic,half,negligible,not prepared,57,50,52
-Hillie Thorrington,Male,acidic,full,moderate,not prepared,78,76,69
-Marve Crauford,Male,acidic,half,moderate,fully prepared,84,84,65
-Binny Vispo,Female,basic,full,excessive,fully prepared,77,78,69
-Brook Hanbury,Male,basic,half,excessive,not prepared,64,66,50
-Margot Wyburn,Female,acidic,full,negligible,partially prepared,78,76,73
-Duke Vango,Male,basic,half,negligible,fully prepared,82,76,70
-May Labrenz,Female,acidic,half,excessive,not prepared,75,78,81
-Hastings Ruddiman,Male,acidic,full,excessive,fully prepared,61,60,63
-Carmon Shambrooke,Female,basic,full,excessive,fully prepared,72,74,67
-Hesther Causton,Female,basic,half,excessive,partially prepared,68,60,60
-Faber Paynter,Male,acidic,half,excessive,partially prepared,55,54,62
-Guilbert Trent,Male,acidic,half,negligible,partially prepared,40,44,29
-Shurwood Stubley,Male,acidic,full,negligible,partially prepared,66,68,62
-Merrile Hay,Female,acidic,half,negligible,partially prepared,99,100,94
-Faydra Churcher,Female,basic,half,excessive,partially prepared,75,68,85
-Gaelan Fache,Male,acidic,full,excessive,not prepared,78,73,77
-Bertha Rountree,Female,basic,full,moderate,fully prepared,58,44,53
-Ilise Valentim,Female,basic,full,excessive,not prepared,90,83,93
-Marcos Stanaway,Male,basic,half,negligible,fully prepared,53,53,49
-Shermy Duck,Male,basic,full,excessive,not prepared,76,78,73
-Lanni Deppe,Female,acidic,full,moderate,fully prepared,74,81,66
-Hebert Tideswell,Male,basic,half,moderate,partially prepared,77,73,77
-Nikaniki Longmore,Female,basic,half,moderate,fully prepared,63,56,49
-Jaquelyn Gullifant,Female,basic,full,moderate,partially prepared,89,86,79
-Cybill Ianizzi,Female,basic,half,excessive,not prepared,82,90,75
-Raynard Ladel,Male,acidic,half,negligible,partially prepared,72,70,59
-Obediah Misken,Male,acidic,half,excessive,partially prepared,78,79,57
-Kiley Quade,Male,basic,full,excessive,partially prepared,66,59,66
-Hubie Noah,Male,acidic,full,excessive,fully prepared,81,82,79
-Orran Hornbuckle,Male,basic,full,moderate,fully prepared,67,72,57
-Jeffrey Gres,Male,basic,full,excessive,fully prepared,84,87,87
-Ode Trotman,Male,acidic,half,moderate,not prepared,64,67,63
-Laurence Myrtle,Male,acidic,half,moderate,partially prepared,63,64,59
-Willabella Readie,Female,basic,full,negligible,not prepared,72,65,62
-Adela Vasiljevic,Female,acidic,full,excessive,fully prepared,34,36,46
-Catina Berzon,Female,basic,half,moderate,not prepared,59,52,66
-Theresita Camis,Female,basic,half,moderate,fully prepared,87,79,89
-Alaric Noen,Male,acidic,full,negligible,partially prepared,61,58,42
-Moira Faulds,Female,acidic,half,excessive,not prepared,84,90,93
-Smith Oakinfold,Male,acidic,full,excessive,not prepared,85,85,80
-Rutter Brookhouse,Male,acidic,half,excessive,partially prepared,100,99,98
-Packston Whear,Male,basic,full,negligible,not prepared,81,84,81
-Alon Geipel,Male,basic,full,negligible,fully prepared,70,74,60
-Bendick Dunkerton,Male,basic,full,excessive,fully prepared,94,87,76
-Alexi Mullen,Female,acidic,half,negligible,partially prepared,78,72,73
-Casper Oulner,Male,basic,half,excessive,fully prepared,96,99,96
-Jennica Straughan,Female,basic,full,negligible,not prepared,76,74,76
-Sissy Oliveira,Female,acidic,half,negligible,not prepared,73,80,91
-Hester Sparry,Female,basic,half,negligible,fully prepared,72,70,62
-Afton Wrathmell,Female,basic,half,excessive,fully prepared,59,59,55
-Alicea Clementucci,Female,acidic,half,moderate,not prepared,90,88,74
-Alta Emblem,Female,basic,full,negligible,partially prepared,48,42,50
-Marika Ambrogini,Female,acidic,full,excessive,fully prepared,43,41,47
-Barbabra Laydel,Female,acidic,half,moderate,partially prepared,74,71,81
-Jania McGrail,Female,basic,full,negligible,fully prepared,75,77,65
-Daryl Byass,Female,basic,full,moderate,not prepared,51,57,68
-Marv Himsworth,Male,basic,full,moderate,partially prepared,92,84,73
-Harland Papaccio,Male,acidic,full,excessive,partially prepared,39,37,53
-Kathi Thurlow,Female,acidic,half,moderate,fully prepared,77,80,68
-Hendrik Suarez,Male,acidic,half,moderate,partially prepared,46,43,55
-Gilbertine Stiger,Female,acidic,half,negligible,fully prepared,89,94,87
-Ryun Leggat,Male,basic,full,excessive,fully prepared,47,44,55
-Kori Babalola,Female,acidic,half,excessive,partially prepared,58,57,53
-Elvira Dobel,Female,basic,half,moderate,not prepared,57,59,67
-Ruby Spottswood,Female,basic,half,excessive,not prepared,79,84,92
-Ambur McGeachey,Female,basic,full,negligible,not prepared,66,73,53
-Naoma Parkes,Female,basic,full,negligible,not prepared,71,73,81
-Gradeigh Bryceson,Male,basic,full,excessive,partially prepared,60,55,61
-Radcliffe Westmarland,Male,basic,full,negligible,not prepared,73,72,80
-Juan Furmage,Male,acidic,half,excessive,not prepared,57,56,37
-Evvy Longson,Female,acidic,full,moderate,partially prepared,84,82,81
-Lyon Ledur,Male,acidic,full,excessive,not prepared,73,72,59
-Beverly Yusupov,Female,acidic,full,negligible,fully prepared,55,47,55
-Lurleen Bewlay,Female,basic,half,moderate,not prepared,79,74,72
-Chloette Quittonden,Female,acidic,full,excessive,partially prepared,75,71,69
-Neville Blincow,Male,basic,half,excessive,partially prepared,64,68,69
-Brodie Seid,Male,acidic,full,excessive,not prepared,60,59,50
-Roarke Medlin,Male,acidic,full,excessive,fully prepared,84,86,87
-Devina Signoret,Female,basic,full,negligible,partially prepared,69,68,71
-Pepillo Purle,Male,acidic,full,excessive,partially prepared,72,65,68
-Pollyanna Scherme,Female,acidic,half,moderate,fully prepared,77,75,79
-Anya Northgraves,Female,acidic,full,excessive,partially prepared,90,85,77
-Sayers Ousley,Male,acidic,full,excessive,fully prepared,55,53,58
-Sharity Trotman,Female,basic,full,moderate,fully prepared,95,92,84
-Sissy Hateley,Female,acidic,full,moderate,not prepared,58,52,55
-Bryn Esley,Male,basic,half,excessive,not prepared,68,72,70
-Brynne MacGarrity,Female,acidic,half,moderate,partially prepared,59,65,52
-Tamarra Gooddy,Female,basic,full,moderate,not prepared,77,77,69
-Ilse Summerfield,Female,basic,full,moderate,partially prepared,72,64,53
-Elisa Hundey,Female,acidic,full,negligible,fully prepared,58,54,48
-Jared Jack,Male,acidic,full,negligible,fully prepared,81,86,78
-Gavan Ramsier,Male,basic,half,moderate,fully prepared,62,63,62
-Abeu McVeagh,Male,acidic,half,negligible,fully prepared,63,59,60
-Valery Townshend,Female,basic,half,negligible,fully prepared,72,72,74
-Roxine Gaw,Female,basic,half,negligible,partially prepared,75,77,58
-Abbie Gumly,Female,acidic,full,moderate,fully prepared,62,60,76
-Milicent Stirgess,Female,basic,full,excessive,fully prepared,71,75,68
-Andreana Crocetto,Female,acidic,half,moderate,partially prepared,60,57,58
-Georges Lambe,Male,acidic,half,moderate,not prepared,48,49,52
-Isiahi Sunshine,Male,basic,half,excessive,partially prepared,73,74,75
-Brandice MacIntosh,Female,acidic,full,moderate,not prepared,67,72,52
-Wolfy Noyes,Male,basic,full,excessive,not prepared,78,79,62
-Whit Garlinge,Male,basic,full,negligible,fully prepared,65,60,66
-Evanne Fosten,Female,basic,half,moderate,not prepared,58,55,49
-Alick Panichelli,Male,acidic,full,negligible,not prepared,72,70,66
-Sayer Roughey,Male,acidic,half,excessive,partially prepared,44,43,35
-Pennie Causer,Male,acidic,half,moderate,not prepared,79,82,72
-Aindrea Notley,Female,basic,half,excessive,partially prepared,85,82,94
-Kally Kubecka,Female,acidic,full,excessive,partially prepared,56,57,46
-Thelma Smouten,Female,acidic,half,negligible,fully prepared,90,84,77
-Margareta Ridett,Female,basic,half,negligible,fully prepared,85,82,76
-Giacobo Morsley,Male,acidic,full,excessive,fully prepared,59,62,52
-Myrtie Smout,Female,acidic,full,excessive,partially prepared,81,79,91
-Charis Bleaden,Female,acidic,half,moderate,fully prepared,51,44,32
-Marielle Hardan,Female,basic,half,excessive,fully prepared,79,77,72
-Lorelei Garth,Female,basic,half,moderate,fully prepared,38,32,19
-Geno Brotherhed,Male,acidic,half,moderate,partially prepared,65,61,68
-Humfried Castelluzzi,Male,basic,full,negligible,partially prepared,65,61,52
-Paddy Peckham,Male,basic,full,excessive,not prepared,62,60,48
-Ewell Tutchings,Male,basic,full,moderate,partially prepared,66,70,60
-Iormina Dibsdale,Female,basic,half,moderate,partially prepared,74,69,66
-Rich Cordingley,Male,basic,full,moderate,fully prepared,84,77,89
-Sloan Ravenshear,Male,basic,half,negligible,partially prepared,52,51,42
-Floria Hassard,Female,acidic,full,excessive,partially prepared,68,73,57
-Paco Hadley,Male,basic,half,excessive,fully prepared,70,70,70
-Orelle Moscone,Female,acidic,half,moderate,fully prepared,84,81,70
-Deerdre Andrejs,Female,acidic,half,negligible,not prepared,60,54,69
-Emelyne Rockhill,Female,basic,full,negligible,not prepared,55,57,52
-Robinette Breach,Female,basic,full,negligible,fully prepared,73,68,67
-Annabelle Ayliffe,Female,basic,half,excessive,partially prepared,80,73,76
-Hodge Como,Male,acidic,half,excessive,partially prepared,94,95,87
-Vinson Tarling,Male,acidic,half,excessive,fully prepared,85,87,82
-Ingelbert Durnian,Male,acidic,full,excessive,partially prepared,76,78,73
-Karoline Taffrey,Female,basic,full,excessive,not prepared,81,74,75
-Cirilo Bartoshevich,Male,acidic,full,excessive,fully prepared,74,75,64
-Marys Artis,Female,basic,full,negligible,partially prepared,45,40,41
-Emilee Tregenna,Female,basic,half,excessive,fully prepared,75,69,90
-Freemon Rispine,Male,basic,half,negligible,fully prepared,54,51,59
-Wilma Rowlings,Female,basic,full,moderate,partially prepared,31,36,51
-Lothario Shillaker,Male,basic,half,moderate,not prepared,47,49,45
-Gerome Drohun,Male,basic,full,negligible,partially prepared,64,67,54
-Hillary Enochsson,Male,acidic,full,excessive,fully prepared,84,76,87
-Martynne Aston,Female,basic,half,negligible,partially prepared,80,83,72
-Arnoldo Espada,Male,basic,full,negligible,not prepared,86,87,94
-Rory Wardingly,Male,acidic,half,moderate,fully prepared,59,64,45
-Saudra Yate,Female,basic,half,moderate,not prepared,70,76,61
-Joseph Rotter,Male,basic,half,negligible,not prepared,72,68,60
-Bendick Locker,Male,basic,half,excessive,partially prepared,91,88,77
-Maurizio Inkster,Male,acidic,half,moderate,fully prepared,90,92,85
-Lammond Aistrop,Male,acidic,full,negligible,partially prepared,90,93,78
-Marcelo Janacek,Male,acidic,half,excessive,partially prepared,52,51,49
-Nananne Gentreau,Female,acidic,full,excessive,not prepared,87,82,71
-Kellia Brouard,Female,basic,full,negligible,fully prepared,58,52,48
-Sloane Rolph,Male,acidic,full,moderate,not prepared,67,58,62
-Quentin Easter,Male,acidic,half,moderate,not prepared,68,70,56
-Zsa zsa Yitshak,Female,acidic,half,negligible,not prepared,69,76,65
-Dawn Josh,Female,basic,half,excessive,not prepared,86,81,69
-Bernardo Nemchinov,Male,basic,half,negligible,partially prepared,54,53,68
-Padraig Butler,Male,acidic,half,moderate,fully prepared,60,57,61
-Myrtice Aimer,Female,acidic,full,moderate,partially prepared,86,89,74
-Giovanna McOwan,Female,basic,half,moderate,partially prepared,60,58,64
-Pammi Duckering,Female,basic,half,excessive,fully prepared,82,89,77
-Jaime Cradduck,Female,acidic,half,excessive,fully prepared,50,45,58
-Arie Fallows,Male,basic,half,excessive,partially prepared,64,74,60
-Fey Bostock,Female,acidic,half,excessive,not prepared,64,57,73
-Bertrando Arbuckel,Male,basic,half,negligible,fully prepared,82,79,75
-Evangelia Cristofor,Female,basic,half,negligible,fully prepared,57,53,58
-Zandra Richold,Female,acidic,half,negligible,not prepared,77,73,66
-Michele Josipovitz,Female,basic,full,excessive,not prepared,52,46,39
-Giselle Honniebal,Female,basic,full,moderate,not prepared,58,51,64
-Gabriela Bousler,Female,basic,full,moderate,not prepared,44,36,23
-Vaughn Singh,Male,basic,full,excessive,fully prepared,77,76,74
-Adriane Langfield,Female,basic,full,moderate,partially prepared,65,64,40
-Henriette Fawlks,Female,acidic,half,excessive,fully prepared,85,84,90
-Eloisa Caswill,Female,basic,full,excessive,not prepared,85,85,91
-Craggy Jepps,Male,basic,full,negligible,partially prepared,54,50,64
-Ardella Rate,Female,basic,full,excessive,fully prepared,72,68,59
-Luis Gostick,Male,basic,half,excessive,partially prepared,75,69,80
-Klaus Lourens,Male,acidic,half,excessive,fully prepared,67,67,71
-Alexander Penhalewick,Male,basic,half,moderate,fully prepared,68,63,61
-Hasheem Gannaway,Male,basic,full,excessive,partially prepared,85,93,87
-Lucienne Murdy,Female,acidic,full,moderate,partially prepared,67,61,82
-Baudoin Kleinber,Male,basic,half,excessive,not prepared,64,55,62
-Reg Hattrick,Male,acidic,half,moderate,fully prepared,97,96,97
-Flinn Laurentino,Male,acidic,half,negligible,not prepared,68,65,75
-Kai Ronchetti,Female,basic,half,excessive,not prepared,79,81,65
-Waylan Focke,Male,basic,full,moderate,not prepared,49,46,52
-Debra Connechy,Female,basic,full,moderate,fully prepared,73,72,87
-Nelly Sainer,Female,acidic,full,moderate,not prepared,62,53,53
-Astrid Paulillo,Female,basic,full,excessive,fully prepared,86,87,81
-Adolpho Durand,Male,acidic,full,excessive,not prepared,42,38,39
-Pancho Drei,Male,basic,full,moderate,fully prepared,71,80,71
-Yvonne Sigfrid,Female,basic,full,excessive,not prepared,93,91,97
-Lindsey Veltmann,Female,basic,half,negligible,fully prepared,82,88,82
-Web Eriksson,Male,acidic,half,moderate,partially prepared,53,52,59
-Harli Curran,Female,basic,full,negligible,partially prepared,42,41,61
-Nealon Niemetz,Male,basic,full,negligible,fully prepared,74,72,78
-Coralie Sowley,Female,basic,half,moderate,partially prepared,51,51,49
-Burton Purdom,Male,basic,half,negligible,partially prepared,58,47,59
-Therese Peaddie,Female,acidic,half,negligible,not prepared,72,76,70
-Titus Bredee,Male,basic,full,negligible,not prepared,84,78,82
-Karney Gallacher,Male,acidic,half,negligible,partially prepared,90,82,90
-Cozmo Haffenden,Male,basic,half,excessive,fully prepared,62,61,43
-Idalia McAster,Female,basic,full,moderate,partially prepared,64,66,80
-Guido Tamburi,Male,basic,half,moderate,fully prepared,82,84,81
-Ula Rodenborch,Female,basic,half,excessive,fully prepared,61,54,57
-Bel Posse,Female,basic,half,excessive,partially prepared,72,80,59
-Tobe Favill,Female,basic,half,excessive,fully prepared,76,74,64
-Marthena Ivanilov,Female,basic,full,negligible,partially prepared,64,66,63
-Chelsea Braam,Female,acidic,full,moderate,fully prepared,70,70,71
-Lacee Rahlof,Female,acidic,half,negligible,partially prepared,73,71,64
-Ki Soane,Female,acidic,half,excessive,not prepared,46,44,55
-Dorothea Base,Female,acidic,full,excessive,fully prepared,51,54,51
-Halsy Dysert,Male,basic,half,negligible,not prepared,76,80,62
-Alika Allnutt,Female,basic,full,negligible,fully prepared,100,95,93
-Perceval Poinsett,Male,acidic,half,excessive,not prepared,72,59,54
-Egon Vynoll,Male,acidic,half,excessive,fully prepared,65,74,69
-Jakob Coppens,Male,acidic,half,excessive,not prepared,51,48,44
-Dion Caren,Male,basic,half,negligible,partially prepared,85,91,86
-Herschel Burel,Male,acidic,half,excessive,not prepared,92,85,85
-Flor Pratten,Female,basic,half,negligible,fully prepared,67,73,50
-Bayard Wann,Male,acidic,full,moderate,partially prepared,74,75,88
-Ches Crapper,Male,basic,half,excessive,partially prepared,62,69,59
-Lotti Sime,Female,basic,full,excessive,partially prepared,34,38,32
-Corella Nanninini,Female,acidic,full,moderate,partially prepared,29,27,36
-Alvis Buckenhill,Male,acidic,half,moderate,fully prepared,78,79,63
-Rinaldo Pentelow,Male,basic,full,excessive,partially prepared,54,63,67
-Karyn Claridge,Female,acidic,full,moderate,not prepared,78,82,65
-Eulalie Masurel,Female,acidic,half,excessive,not prepared,84,89,85
-Rhianon Carslake,Female,acidic,half,negligible,not prepared,78,74,73
-Caralie Wandrack,Female,acidic,full,excessive,not prepared,48,41,34
-Erin Pillifant,Male,acidic,half,negligible,not prepared,100,100,93
-Estrella Malcolm,Female,acidic,full,negligible,partially prepared,84,84,67
-Kenton Rushmere,Male,acidic,half,moderate,not prepared,77,77,88
-Bobbye McIlreavy,Female,basic,full,excessive,partially prepared,48,51,57
-Valma Thaller,Female,basic,full,moderate,partially prepared,84,91,79
-Shell Mouncey,Male,basic,full,negligible,fully prepared,75,72,67
-Meade Egalton,Male,basic,half,negligible,partially prepared,64,70,70
-Sallyanne Hurlin,Female,acidic,full,negligible,not prepared,42,48,50
-Kurtis Ransom,Male,basic,half,moderate,not prepared,84,82,69
-Mag Eplate,Female,acidic,half,moderate,fully prepared,61,66,52
-Mag Patesel,Female,acidic,full,excessive,fully prepared,62,66,47
-Silvester Remer,Male,basic,half,moderate,not prepared,61,55,46
-Abba Martinec,Male,basic,half,excessive,not prepared,70,66,68
-Leeanne Winn,Female,basic,half,negligible,not prepared,100,100,100
-Rorie Kirkhouse,Female,basic,full,excessive,fully prepared,61,52,44
-Lalo Edgecombe,Male,basic,half,excessive,fully prepared,77,80,57
-Ollie Rattenbury,Female,basic,full,excessive,partially prepared,96,91,91
-Marietta Frensch,Male,basic,half,negligible,partially prepared,70,67,69
-Moria Whitlow,Female,acidic,half,negligible,partially prepared,53,46,35
-Caldwell Frederick,Male,acidic,full,moderate,partially prepared,66,66,72
-Lu Ambrogioni,Female,basic,half,excessive,partially prepared,65,65,54
-Emma Greenhead,Female,basic,half,negligible,not prepared,70,69,74
-Kerr Davids,Male,acidic,half,negligible,partially prepared,64,60,74
-Dacy Molloy,Female,acidic,full,moderate,fully prepared,56,52,64
-Tomas Falkner,Male,basic,half,excessive,fully prepared,61,71,65
-Lillis Maccari,Female,acidic,half,excessive,fully prepared,43,44,46
-Christyna Josskowitz,Female,basic,full,negligible,not prepared,56,51,48
-Marie-ann Playden,Female,basic,half,excessive,partially prepared,74,70,67
-Rutger Sly,Male,basic,full,moderate,fully prepared,57,62,62
-Amberly Coviello,Female,basic,half,moderate,partially prepared,71,73,61
-Hi Lorenzin,Male,basic,full,moderate,not prepared,75,74,70
-Harri Pachta,Female,acidic,full,moderate,fully prepared,87,90,98
-Gerrie Grodden,Male,basic,half,excessive,fully prepared,63,58,70
-Dulciana Harriskine,Female,basic,half,moderate,partially prepared,57,53,67
-Christoph Grassick,Male,acidic,half,moderate,partially prepared,58,57,57
-Adolph Jindacek,Male,acidic,full,negligible,partially prepared,81,85,85
-Douglas Maciejewski,Male,basic,half,excessive,not prepared,68,69,77
-Gare Chiverstone,Male,acidic,half,excessive,partially prepared,66,72,72
-Estel Kearley,Female,acidic,half,moderate,fully prepared,91,96,78
-Trip Hugnot,Male,acidic,full,negligible,not prepared,66,64,81
-Archibald Garmston,Male,basic,half,negligible,partially prepared,62,61,61
-Elroy Staley,Male,acidic,half,negligible,not prepared,68,61,58
-Clarke Monketon,Male,basic,half,negligible,fully prepared,61,58,54
-Hilliary Sayward,Female,acidic,half,negligible,not prepared,82,80,82
-Mile Batchelder,Male,acidic,full,moderate,fully prepared,58,60,49
-Allianora Pickard,Female,basic,full,moderate,partially prepared,50,52,49
-Tore Ropkins,Male,acidic,full,moderate,not prepared,75,73,57
-Christine Benstead,Female,basic,half,moderate,fully prepared,73,71,94
-Jessi Hendin,Female,acidic,half,negligible,not prepared,77,83,75
-Tedi Beardon,Female,acidic,half,excessive,fully prepared,74,72,74
-Nerte Vina,Female,acidic,half,negligible,partially prepared,52,54,58
-Devlin Unitt,Male,acidic,half,moderate,partially prepared,69,69,62
-Isidoro Rushton,Male,acidic,half,excessive,fully prepared,57,62,72
-Renaldo Braithwait,Male,acidic,half,moderate,fully prepared,87,81,84
-Monica Mastrantone,Female,acidic,half,negligible,fully prepared,100,100,92
-Ryan Pinder,Male,basic,full,excessive,partially prepared,63,59,45
-Gayla De la croix,Female,basic,half,moderate,not prepared,81,71,75
-Rosabella Baldazzi,Female,basic,half,excessive,not prepared,58,64,56
-Marabel Patsall,Female,basic,full,negligible,not prepared,54,53,48
-Chuck Pavey,Male,basic,full,moderate,fully prepared,100,100,100
-Hector Weeds,Male,basic,full,moderate,partially prepared,76,75,65
-Nady Sloey,Female,acidic,half,negligible,partially prepared,57,58,72
-Donetta Skatcher,Female,basic,full,excessive,fully prepared,70,72,62
-Emmanuel Claworth,Male,basic,full,negligible,partially prepared,68,64,66
-Saba Adamovich,Female,basic,full,negligible,partially prepared,63,60,63
-Terrel Clare,Male,basic,half,moderate,fully prepared,76,67,68
-Pascale Thow,Male,acidic,full,excessive,partially prepared,84,80,75
-Ilario La Padula,Male,acidic,half,negligible,fully prepared,100,100,89
-Daren Beacroft,Male,acidic,half,moderate,partially prepared,72,69,78
-Charlotta Yeiles,Female,basic,half,excessive,not prepared,50,60,53
-Ravid Dyet,Male,basic,full,excessive,partially prepared,65,61,49
-Gertie Dominick,Female,basic,full,excessive,not prepared,63,67,54
-Levon Gearty,Male,basic,full,negligible,not prepared,82,77,64
-Annamaria Glanister,Female,basic,full,excessive,not prepared,62,60,60
-Bert Dumbelton,Female,acidic,full,excessive,partially prepared,65,58,62
-Elwin McMeeking,Male,basic,full,excessive,not prepared,41,48,55
-Fancy Thames,Female,acidic,full,negligible,partially prepared,95,94,91
-Rabbi Guittet,Male,acidic,half,excessive,not prepared,24,23,8
-Barnie Burle,Male,acidic,half,negligible,not prepared,78,78,81
-Addie Cliss,Male,basic,half,moderate,partially prepared,85,86,79
-Matthias Perle,Male,basic,half,moderate,not prepared,87,91,78
-Nessi Bryant,Female,acidic,full,negligible,partially prepared,75,82,74
-Dacy Dunklee,Female,acidic,half,moderate,not prepared,51,54,57
-Shayne Risman,Male,basic,full,excessive,not prepared,59,51,40
-Fernande Willsmore,Female,basic,half,moderate,partially prepared,75,76,81
-Kathlin Bernth,Female,acidic,half,excessive,partially prepared,45,45,44
-Jacinda Van Arsdall,Female,basic,half,excessive,not prepared,86,83,67
-Yancey Peter,Male,acidic,half,negligible,not prepared,81,75,86
-Farly Standish-Brooks,Male,basic,full,moderate,partially prepared,82,78,65
-Bee Machel,Female,acidic,half,excessive,partially prepared,76,76,55
-Letta Luckin,Female,acidic,full,negligible,partially prepared,72,74,62
-Riccardo Woodruff,Male,basic,full,excessive,partially prepared,63,62,63
-Raffaello Ondrich,Male,acidic,full,excessive,not prepared,99,95,88
-Kenneth Jeness,Male,acidic,half,negligible,fully prepared,55,55,62
-Martainn Mc Dermid,Male,acidic,full,excessive,partially prepared,71,65,59
-Georgiana Boyle,Female,acidic,full,moderate,not prepared,78,77,68
-Doll Rother,Female,basic,full,moderate,partially prepared,86,86,77
+Gender,Lunch_type,Sleep_type,screen_time,study_preparation,Cat_1,Cat_2,Previous_Cgpa
+Female,acidic,full,excessive,not prepared,72,74,72
+Female,basic,full,negligible,partially prepared,90,88,69
+Female,acidic,full,negligible,fully prepared,95,93,90
+Male,acidic,half,negligible,partially prepared,57,44,47
+Male,acidic,full,excessive,partially prepared,78,75,76
+Female,acidic,half,negligible,not prepared,83,78,71
+Male,basic,full,excessive,not prepared,95,92,88
+Male,basic,half,moderate,fully prepared,43,39,40
+Male,acidic,half,excessive,partially prepared,64,67,64
+Female,basic,full,moderate,not prepared,60,50,38
+Male,acidic,half,negligible,not prepared,54,52,58
+Male,acidic,full,moderate,fully prepared,52,43,40
+Male,acidic,full,moderate,not prepared,81,73,65
+Male,acidic,half,moderate,not prepared,72,70,78
+Male,acidic,half,moderate,fully prepared,53,58,50
+Female,acidic,half,excessive,not prepared,75,78,69
+Male,acidic,full,moderate,fully prepared,89,86,88
+Male,acidic,half,moderate,partially prepared,32,28,18
+Male,basic,half,moderate,fully prepared,42,46,46
+Male,basic,half,excessive,fully prepared,58,61,54
+Male,acidic,half,moderate,partially prepared,69,63,66
+Male,basic,full,excessive,partially prepared,75,70,65
+Male,basic,half,negligible,fully prepared,54,53,44
+Male,acidic,full,negligible,partially prepared,73,73,69
+Male,acidic,half,moderate,fully prepared,71,80,74
+Female,basic,full,excessive,fully prepared,74,72,73
+Female,basic,full,excessive,fully prepared,54,55,69
+Male,acidic,half,negligible,not prepared,69,75,67
+Female,acidic,half,negligible,not prepared,70,65,70
+Male,basic,full,excessive,partially prepared,70,75,62
+Female,acidic,half,negligible,fully prepared,74,74,69
+Female,basic,half,moderate,not prepared,65,61,63
+Female,basic,half,moderate,fully prepared,72,65,56
+Female,acidic,half,excessive,not prepared,42,38,40
+Female,acidic,half,moderate,partially prepared,87,82,97
+Male,acidic,full,negligible,partially prepared,81,79,81
+Female,basic,full,negligible,partially prepared,81,83,74
+Male,acidic,full,negligible,fully prepared,64,59,50
+Male,acidic,half,excessive,partially prepared,90,88,75
+Male,basic,half,excessive,not prepared,56,57,57
+Male,acidic,full,negligible,partially prepared,61,54,55
+Female,acidic,half,moderate,fully prepared,73,68,58
+Female,basic,full,moderate,partially prepared,58,65,53
+Female,acidic,full,excessive,not prepared,65,66,59
+Male,basic,half,moderate,partially prepared,56,54,50
+Female,acidic,full,excessive,not prepared,54,57,65
+Female,basic,half,negligible,not prepared,65,62,55
+Male,acidic,full,excessive,not prepared,71,76,66
+Male,acidic,full,moderate,partially prepared,74,76,57
+Male,basic,half,excessive,not prepared,84,82,82
+Male,basic,full,excessive,not prepared,55,48,53
+Female,basic,half,negligible,partially prepared,69,68,77
+Male,acidic,half,negligible,not prepared,44,42,53
+Female,basic,half,excessive,fully prepared,78,75,88
+Female,acidic,full,moderate,not prepared,84,87,71
+Female,basic,half,negligible,partially prepared,41,43,33
+Female,acidic,half,excessive,not prepared,85,86,82
+Female,acidic,full,moderate,fully prepared,55,49,52
+Male,basic,full,excessive,partially prepared,59,58,58
+Male,basic,half,moderate,partially prepared,17,10,0
+Male,acidic,half,excessive,fully prepared,74,72,79
+Female,basic,full,negligible,fully prepared,39,34,39
+Male,basic,half,excessive,partially prepared,61,55,62
+Male,acidic,full,moderate,partially prepared,80,71,69
+Male,basic,half,moderate,fully prepared,58,59,59
+Male,acidic,half,excessive,not prepared,64,61,67
+Female,acidic,full,excessive,partially prepared,37,37,45
+Female,basic,half,excessive,not prepared,72,74,60
+Female,acidic,half,moderate,fully prepared,58,56,61
+Female,basic,half,excessive,not prepared,64,57,39
+Male,basic,full,moderate,partially prepared,63,73,58
+Female,basic,half,excessive,partially prepared,55,63,63
+Male,acidic,half,moderate,not prepared,51,48,41
+Male,acidic,full,moderate,partially prepared,57,56,61
+Male,acidic,full,negligible,not prepared,49,41,49
+Female,acidic,half,negligible,not prepared,41,38,44
+Male,basic,full,excessive,not prepared,26,22,30
+Male,acidic,full,excessive,not prepared,78,81,80
+Female,acidic,full,excessive,fully prepared,74,72,61
+Female,acidic,half,moderate,partially prepared,68,68,62
+Male,acidic,half,moderate,partially prepared,49,50,47
+Female,basic,full,excessive,not prepared,45,45,49
+Male,acidic,half,negligible,partially prepared,47,54,50
+Female,basic,half,negligible,not prepared,64,63,72
+Female,basic,full,excessive,not prepared,39,34,42
+Male,acidic,full,moderate,fully prepared,80,82,73
+Female,acidic,full,negligible,not prepared,83,88,76
+Male,basic,full,excessive,partially prepared,71,74,71
+Female,basic,full,moderate,partially prepared,70,67,58
+Female,acidic,half,excessive,partially prepared,86,82,73
+Male,basic,full,excessive,fully prepared,72,74,65
+Female,basic,full,excessive,not prepared,34,36,27
+Male,basic,half,negligible,partially prepared,79,71,71
+Male,acidic,full,excessive,not prepared,45,50,43
+Male,basic,half,negligible,not prepared,86,92,79
+Male,basic,half,moderate,fully prepared,81,82,78
+Male,acidic,half,moderate,partially prepared,66,62,65
+Male,basic,half,negligible,not prepared,72,70,63
+Male,basic,half,negligible,not prepared,67,62,58
+Male,basic,full,negligible,partially prepared,67,62,65
+Female,acidic,full,excessive,not prepared,67,67,79
+Male,basic,half,negligible,not prepared,74,74,68
+Female,basic,half,moderate,partially prepared,91,89,85
+Female,acidic,half,excessive,partially prepared,44,47,60
+Female,basic,half,negligible,partially prepared,86,90,98
+Male,acidic,full,excessive,fully prepared,67,72,58
+Female,acidic,full,negligible,partially prepared,100,100,87
+Female,acidic,full,excessive,partially prepared,63,64,66
+Female,basic,half,excessive,partially prepared,76,70,52
+Female,basic,full,negligible,not prepared,64,72,70
+Male,acidic,half,excessive,partially prepared,89,98,77
+Male,basic,half,excessive,not prepared,55,49,62
+Male,acidic,half,negligible,partially prepared,53,47,54
+Male,acidic,half,moderate,partially prepared,58,54,51
+Female,basic,full,moderate,not prepared,100,100,99
+Male,basic,full,moderate,fully prepared,77,74,84
+Male,acidic,half,moderate,fully prepared,85,82,75
+Female,acidic,full,moderate,partially prepared,82,79,78
+Male,acidic,half,negligible,partially prepared,63,61,51
+Male,basic,half,excessive,not prepared,69,65,55
+Male,acidic,half,negligible,fully prepared,92,89,79
+Female,basic,full,moderate,fully prepared,89,92,91
+Female,acidic,full,moderate,not prepared,93,93,88
+Male,acidic,half,negligible,not prepared,57,56,63
+Female,basic,full,negligible,not prepared,80,73,83
+Male,basic,full,negligible,fully prepared,95,86,87
+Female,basic,full,moderate,fully prepared,68,67,72
+Female,acidic,full,excessive,fully prepared,77,74,65
+Female,acidic,half,moderate,fully prepared,82,74,82
+Female,acidic,half,excessive,partially prepared,49,51,51
+Male,basic,full,excessive,fully prepared,84,82,89
+Female,basic,half,moderate,not prepared,37,40,53
+Female,basic,half,negligible,fully prepared,74,70,87
+Male,acidic,half,moderate,partially prepared,81,84,75
+Male,basic,half,negligible,partially prepared,79,75,74
+Female,basic,half,negligible,not prepared,55,48,58
+Male,acidic,half,negligible,fully prepared,54,41,51
+Female,acidic,half,excessive,not prepared,55,56,70
+Male,acidic,half,negligible,not prepared,66,67,59
+Male,basic,half,negligible,not prepared,61,69,71
+Male,basic,full,negligible,fully prepared,72,71,76
+Male,basic,half,excessive,partially prepared,62,64,59
+Female,acidic,full,moderate,fully prepared,55,54,42
+Female,acidic,full,excessive,not prepared,43,47,57
+Male,basic,full,moderate,not prepared,73,78,88
+Female,acidic,full,moderate,not prepared,39,33,22
+Female,acidic,full,excessive,fully prepared,84,75,88
+Female,acidic,half,excessive,fully prepared,68,66,73
+Female,basic,full,moderate,partially prepared,75,81,68
+Female,basic,full,excessive,not prepared,100,93,100
+Female,basic,full,negligible,partially prepared,67,69,62
+Female,basic,full,negligible,fully prepared,67,68,77
+Female,basic,full,excessive,fully prepared,70,66,59
+Male,acidic,half,excessive,fully prepared,49,47,54
+Male,acidic,half,excessive,partially prepared,67,61,62
+Male,acidic,half,excessive,not prepared,89,88,70
+Male,basic,full,excessive,not prepared,74,78,66
+Male,acidic,full,moderate,fully prepared,60,60,60
+Male,basic,half,excessive,fully prepared,86,87,61
+Female,acidic,full,negligible,fully prepared,62,64,66
+Female,acidic,full,moderate,partially prepared,78,74,82
+Female,acidic,full,excessive,fully prepared,88,85,75
+Female,basic,half,moderate,not prepared,53,52,49
+Female,basic,half,moderate,fully prepared,53,49,52
+Female,basic,half,moderate,fully prepared,92,91,81
+Female,acidic,full,excessive,fully prepared,100,100,96
+Female,acidic,full,excessive,not prepared,51,51,53
+Male,acidic,full,moderate,not prepared,76,78,58
+Male,acidic,half,moderate,partially prepared,83,78,68
+Female,acidic,half,negligible,not prepared,75,70,67
+Female,basic,half,negligible,fully prepared,73,74,72
+Female,acidic,half,moderate,fully prepared,88,78,94
+Male,acidic,full,negligible,fully prepared,86,81,79
+Male,basic,full,moderate,not prepared,67,70,63
+Female,acidic,full,negligible,fully prepared,51,54,43
+Female,basic,half,negligible,not prepared,91,87,81
+Female,acidic,half,moderate,fully prepared,54,58,46
+Female,basic,half,excessive,partially prepared,77,77,71
+Male,acidic,full,excessive,fully prepared,70,62,52
+Female,acidic,full,moderate,partially prepared,100,100,97
+Female,acidic,half,moderate,fully prepared,68,75,62
+Female,basic,full,excessive,not prepared,64,66,46
+Female,acidic,half,excessive,fully prepared,50,47,50
+Male,acidic,full,moderate,not prepared,69,70,65
+Male,acidic,half,moderate,not prepared,52,49,45
+Male,basic,full,excessive,partially prepared,67,65,65
+Female,acidic,full,negligible,partially prepared,76,65,80
+Male,acidic,half,negligible,partially prepared,66,68,62
+Female,basic,full,excessive,partially prepared,52,45,48
+Female,basic,full,moderate,not prepared,88,87,77
+Female,acidic,full,negligible,fully prepared,65,69,66
+Male,acidic,half,negligible,not prepared,83,79,76
+Male,basic,full,excessive,partially prepared,64,66,62
+Female,basic,full,negligible,partially prepared,62,62,77
+Male,acidic,half,moderate,not prepared,84,85,69
+Male,acidic,full,negligible,not prepared,55,52,61
+Female,basic,full,excessive,fully prepared,69,65,59
+Female,acidic,full,moderate,partially prepared,56,51,55
+Male,acidic,half,excessive,not prepared,53,55,45
+Female,acidic,half,excessive,not prepared,79,76,78
+Female,basic,half,negligible,not prepared,84,86,67
+Male,acidic,half,excessive,fully prepared,81,77,65
+Male,basic,half,excessive,partially prepared,77,69,69
+Female,basic,half,negligible,not prepared,69,68,57
+Female,basic,half,negligible,partially prepared,41,42,59
+Female,basic,full,moderate,not prepared,71,78,74
+Male,basic,half,moderate,fully prepared,62,62,82
+Female,basic,full,negligible,partially prepared,80,76,81
+Male,acidic,half,moderate,partially prepared,81,76,74
+Female,acidic,full,negligible,fully prepared,61,66,58
+Male,basic,half,negligible,fully prepared,79,79,80
+Male,basic,half,negligible,fully prepared,28,27,35
+Male,basic,half,moderate,partially prepared,62,60,42
+Female,acidic,full,excessive,not prepared,51,56,60
+Male,basic,half,excessive,not prepared,91,81,87
+Female,acidic,half,moderate,not prepared,83,75,84
+Male,basic,half,negligible,partially prepared,86,88,83
+Female,basic,half,excessive,fully prepared,42,39,34
+Female,acidic,half,excessive,fully prepared,77,70,66
+Female,basic,half,negligible,partially prepared,56,56,61
+Male,basic,half,negligible,fully prepared,68,74,56
+Female,basic,half,negligible,not prepared,85,73,87
+Female,basic,half,excessive,partially prepared,65,62,55
+Male,acidic,full,moderate,fully prepared,80,75,86
+Female,basic,half,moderate,not prepared,66,73,52
+Male,basic,half,negligible,fully prepared,56,54,45
+Female,basic,full,moderate,fully prepared,72,71,72
+Male,acidic,half,negligible,fully prepared,50,54,57
+Male,acidic,half,negligible,fully prepared,72,64,68
+Female,basic,full,moderate,not prepared,95,94,88
+Female,basic,full,moderate,not prepared,64,66,76
+Male,basic,half,moderate,fully prepared,43,42,46
+Female,acidic,half,negligible,fully prepared,86,83,67
+Female,acidic,full,negligible,partially prepared,87,78,92
+Female,acidic,full,excessive,fully prepared,82,84,83
+Female,acidic,half,excessive,not prepared,75,77,80
+Female,acidic,full,excessive,not prepared,66,67,63
+Male,basic,full,excessive,not prepared,60,74,64
+Female,basic,full,moderate,fully prepared,52,51,54
+Male,basic,half,negligible,not prepared,80,80,84
+Female,basic,half,moderate,partially prepared,68,66,73
+Female,basic,half,negligible,fully prepared,83,83,80
+Female,acidic,half,excessive,not prepared,52,55,56
+Male,acidic,half,excessive,not prepared,51,43,59
+Male,basic,half,negligible,not prepared,74,69,75
+Female,acidic,full,moderate,partially prepared,76,71,85
+Male,acidic,half,moderate,not prepared,76,74,89
+Male,acidic,half,moderate,fully prepared,70,68,58
+Male,basic,half,moderate,fully prepared,64,62,65
+Female,acidic,half,negligible,not prepared,60,53,68
+Male,acidic,half,moderate,not prepared,49,49,47
+Female,basic,half,moderate,not prepared,83,83,71
+Female,basic,full,excessive,not prepared,70,70,60
+Male,basic,half,negligible,not prepared,80,72,80
+Male,acidic,half,moderate,partially prepared,52,52,54
+Female,basic,full,excessive,fully prepared,73,70,62
+Female,basic,half,negligible,partially prepared,73,68,64
+Male,acidic,half,moderate,not prepared,77,77,78
+Female,basic,half,moderate,fully prepared,75,78,70
+Male,acidic,full,excessive,not prepared,81,81,65
+Female,acidic,half,negligible,fully prepared,79,77,64
+Female,basic,full,excessive,partially prepared,79,78,79
+Female,acidic,full,excessive,partially prepared,50,51,44
+Female,basic,full,moderate,not prepared,93,90,99
+Male,basic,full,negligible,not prepared,73,68,76
+Male,basic,full,excessive,fully prepared,42,41,59
+Female,basic,full,negligible,fully prepared,75,81,63
+Male,basic,full,moderate,fully prepared,72,77,69
+Female,acidic,half,excessive,partially prepared,92,95,88
+Male,acidic,full,negligible,partially prepared,76,70,71
+Female,acidic,full,negligible,partially prepared,63,61,69
+Male,acidic,half,negligible,not prepared,49,42,58
+Female,acidic,half,moderate,not prepared,53,58,47
+Female,acidic,full,negligible,partially prepared,70,71,65
+Male,basic,half,excessive,fully prepared,85,76,88
+Male,basic,full,excessive,fully prepared,78,73,83
+Female,acidic,half,moderate,partially prepared,92,93,85
+Female,acidic,half,negligible,partially prepared,63,75,59
+Female,basic,full,excessive,partially prepared,86,80,65
+Female,acidic,half,moderate,partially prepared,56,57,73
+Female,acidic,full,moderate,partially prepared,52,42,53
+Male,basic,half,moderate,partially prepared,48,46,45
+Female,basic,half,excessive,fully prepared,79,84,73
+Male,basic,full,excessive,partially prepared,78,78,70
+Male,acidic,full,excessive,fully prepared,46,46,37
+Female,basic,full,negligible,not prepared,82,82,81
+Female,acidic,half,moderate,not prepared,82,88,97
+Male,basic,full,moderate,not prepared,89,82,67
+Male,acidic,full,negligible,fully prepared,75,76,88
+Female,basic,full,excessive,not prepared,76,77,77
+Male,basic,full,moderate,partially prepared,70,68,76
+Male,basic,full,negligible,fully prepared,73,70,86
+Female,acidic,full,moderate,not prepared,60,57,63
+Female,acidic,half,excessive,partially prepared,73,75,65
+Male,acidic,full,negligible,not prepared,77,80,78
+Male,acidic,half,excessive,fully prepared,62,60,67
+Female,basic,full,moderate,not prepared,41,43,46
+Male,basic,full,moderate,fully prepared,74,68,71
+Male,acidic,half,negligible,fully prepared,46,50,40
+Male,basic,half,negligible,fully prepared,87,75,90
+Female,acidic,full,excessive,not prepared,78,81,81
+Female,acidic,half,excessive,partially prepared,54,52,56
+Male,basic,full,negligible,not prepared,84,81,67
+Female,acidic,half,excessive,partially prepared,76,64,80
+Male,basic,full,moderate,not prepared,75,83,74
+Male,acidic,full,moderate,partially prepared,67,69,69
+Male,basic,half,moderate,not prepared,87,81,99
+Female,acidic,full,excessive,not prepared,52,44,51
+Female,basic,full,excessive,fully prepared,71,67,53
+Female,basic,full,negligible,not prepared,57,52,49
+Male,basic,half,moderate,not prepared,76,80,73
+Female,acidic,full,moderate,partially prepared,60,57,66
+Male,acidic,full,negligible,partially prepared,61,68,67
+Male,basic,full,moderate,partially prepared,67,69,68
+Male,basic,full,moderate,partially prepared,64,75,59
+Female,acidic,half,negligible,fully prepared,66,65,71
+Female,acidic,full,negligible,not prepared,82,91,77
+Female,acidic,half,negligible,partially prepared,72,78,83
+Female,acidic,full,negligible,fully prepared,71,69,63
+Female,acidic,full,negligible,partially prepared,65,63,56
+Male,basic,full,negligible,not prepared,79,84,67
+Female,basic,full,excessive,not prepared,86,79,75
+Female,basic,full,negligible,not prepared,81,80,71
+Male,basic,full,moderate,not prepared,53,53,43
+Female,basic,full,excessive,fully prepared,46,43,41
+Female,basic,full,excessive,fully prepared,90,94,82
+Female,acidic,full,moderate,partially prepared,61,62,61
+Female,basic,full,moderate,partially prepared,23,19,28
+Male,basic,half,negligible,partially prepared,75,77,82
+Female,acidic,half,negligible,partially prepared,55,51,41
+Male,basic,half,negligible,fully prepared,60,61,71
+Male,basic,half,excessive,partially prepared,37,35,47
+Female,basic,half,excessive,not prepared,56,53,62
+Male,acidic,half,excessive,partially prepared,78,81,90
+Female,acidic,half,moderate,fully prepared,93,95,83
+Male,basic,full,negligible,not prepared,68,66,61
+Female,basic,half,negligible,not prepared,70,69,76
+Male,acidic,half,moderate,partially prepared,51,43,49
+Male,basic,half,moderate,fully prepared,38,27,24
+Female,basic,full,moderate,partially prepared,55,60,35
+Male,basic,half,negligible,fully prepared,61,52,58
+Female,basic,half,excessive,partially prepared,73,63,61
+Female,acidic,full,moderate,not prepared,76,74,69
+Female,acidic,full,negligible,partially prepared,72,67,67
+Female,basic,full,negligible,fully prepared,73,67,79
+Female,basic,full,negligible,not prepared,80,75,72
+Male,basic,half,moderate,not prepared,61,57,62
+Male,acidic,half,moderate,not prepared,94,95,77
+Male,acidic,full,excessive,not prepared,74,66,75
+Female,acidic,half,negligible,not prepared,74,76,87
+Female,acidic,half,moderate,fully prepared,65,69,52
+Male,basic,half,negligible,fully prepared,57,52,66
+Female,acidic,half,negligible,partially prepared,78,80,63
+Female,basic,full,excessive,fully prepared,58,57,46
+Female,basic,half,excessive,partially prepared,71,70,59
+Male,basic,half,negligible,not prepared,72,70,61
+Female,acidic,full,negligible,not prepared,61,61,63
+Male,acidic,full,excessive,partially prepared,66,69,42
+Male,basic,half,negligible,partially prepared,62,61,59
+Female,acidic,full,excessive,not prepared,90,89,80
+Male,acidic,half,negligible,partially prepared,62,59,58
+Female,basic,full,negligible,not prepared,84,78,85
+Female,acidic,half,moderate,not prepared,58,58,52
+Male,basic,full,excessive,partially prepared,34,32,27
+Female,acidic,full,excessive,fully prepared,60,58,59
+Male,basic,half,moderate,fully prepared,58,60,49
+Male,acidic,half,negligible,partially prepared,58,53,69
+Female,basic,full,moderate,not prepared,66,61,61
+Female,acidic,half,excessive,fully prepared,64,58,44
+Female,basic,full,excessive,fully prepared,84,85,73
+Female,basic,full,negligible,not prepared,77,71,84
+Female,acidic,half,excessive,partially prepared,73,70,45
+Male,acidic,half,excessive,not prepared,74,72,74
+Male,acidic,full,excessive,fully prepared,97,96,82
+Male,basic,half,excessive,fully prepared,70,73,59
+Female,acidic,full,excessive,partially prepared,43,41,46
+Female,basic,full,negligible,fully prepared,90,82,80
+Male,basic,full,moderate,fully prepared,95,100,85
+Male,basic,half,excessive,partially prepared,83,77,71
+Male,basic,full,excessive,partially prepared,64,62,66
+Female,basic,half,moderate,partially prepared,86,83,80
+Female,basic,full,moderate,partially prepared,100,95,87
+Male,basic,full,excessive,not prepared,81,71,79
+Female,basic,full,excessive,partially prepared,49,45,38
+Female,basic,full,moderate,fully prepared,43,43,38
+Female,acidic,half,excessive,fully prepared,76,75,67
+Female,acidic,half,excessive,not prepared,73,70,64
+Male,basic,full,negligible,fully prepared,78,67,57
+Female,basic,half,excessive,fully prepared,64,64,62
+Female,acidic,half,excessive,fully prepared,70,75,73
+Male,basic,full,excessive,not prepared,67,59,73
+Male,acidic,half,moderate,fully prepared,68,77,77
+Male,basic,full,excessive,partially prepared,67,67,76
+Female,basic,full,negligible,fully prepared,54,56,57
+Male,basic,half,moderate,partially prepared,74,77,65
+Male,basic,full,negligible,fully prepared,45,41,48
+Female,acidic,half,negligible,partially prepared,67,63,50
+Female,basic,full,excessive,not prepared,89,95,85
+Male,acidic,full,excessive,not prepared,63,57,74
+Male,basic,full,negligible,partially prepared,59,54,60
+Male,acidic,half,excessive,not prepared,54,67,59
+Male,acidic,full,moderate,partially prepared,43,43,53
+Male,basic,full,excessive,partially prepared,65,55,49
+Male,basic,half,excessive,partially prepared,99,100,88
+Female,basic,full,moderate,fully prepared,59,62,54
+Female,acidic,full,excessive,partially prepared,73,68,63
+Female,acidic,half,excessive,not prepared,65,63,65
+Female,acidic,full,excessive,not prepared,80,77,82
+Male,basic,full,excessive,partially prepared,57,56,52
+Male,acidic,full,excessive,not prepared,84,85,87
+Female,acidic,full,moderate,not prepared,71,74,70
+Male,basic,half,negligible,fully prepared,83,78,84
+Female,basic,half,negligible,fully prepared,66,60,71
+Male,acidic,half,excessive,partially prepared,67,67,63
+Male,acidic,half,moderate,not prepared,72,79,51
+Male,basic,full,moderate,fully prepared,73,69,84
+Female,basic,full,excessive,not prepared,74,68,71
+Male,acidic,full,excessive,fully prepared,73,67,74
+Male,basic,full,negligible,fully prepared,59,62,68
+Female,basic,half,negligible,partially prepared,56,54,57
+Male,acidic,full,moderate,fully prepared,93,93,82
+Female,acidic,full,moderate,not prepared,58,64,57
+Female,basic,full,moderate,fully prepared,58,67,47
+Female,acidic,half,excessive,not prepared,85,80,59
+Male,acidic,full,moderate,fully prepared,39,34,41
+Female,basic,half,excessive,partially prepared,67,62,62
+Male,acidic,full,moderate,not prepared,83,86,86
+Male,acidic,full,negligible,partially prepared,71,65,69
+Female,acidic,half,excessive,partially prepared,59,53,65
+Female,basic,full,negligible,partially prepared,63,54,68
+Male,basic,full,excessive,not prepared,66,59,64
+Female,acidic,half,moderate,fully prepared,72,70,61
+Male,acidic,half,negligible,partially prepared,56,55,61
+Female,basic,half,moderate,fully prepared,59,50,47
+Female,acidic,half,excessive,not prepared,66,66,73
+Female,basic,half,negligible,partially prepared,48,53,50
+Female,basic,full,negligible,fully prepared,68,64,75
+Female,acidic,half,excessive,not prepared,66,73,75
+Male,basic,full,negligible,fully prepared,56,51,70
+Male,acidic,full,negligible,partially prepared,88,82,89
+Male,basic,half,moderate,not prepared,81,79,67
+Female,basic,full,moderate,not prepared,81,80,78
+Female,basic,half,negligible,fully prepared,73,69,59
+Male,acidic,half,negligible,partially prepared,83,76,73
+Male,acidic,full,negligible,not prepared,82,73,79
+Female,acidic,half,moderate,fully prepared,74,77,67
+Male,basic,half,moderate,fully prepared,66,60,69
+Female,basic,full,excessive,not prepared,81,80,86
+Female,acidic,full,negligible,not prepared,46,42,47
+Female,basic,full,negligible,partially prepared,73,72,81
+Male,acidic,half,negligible,partially prepared,85,85,64
+Female,basic,full,moderate,fully prepared,92,97,100
+Female,acidic,half,negligible,fully prepared,77,74,65
+Male,basic,full,negligible,not prepared,58,49,65
+Female,acidic,full,moderate,not prepared,61,62,53
+Female,acidic,half,moderate,fully prepared,56,47,37
+Female,acidic,half,moderate,partially prepared,89,89,79
+Male,acidic,full,excessive,not prepared,54,48,53
+Female,acidic,half,moderate,partially prepared,100,100,100
+Female,acidic,half,excessive,fully prepared,65,68,72
+Male,basic,full,moderate,partially prepared,58,55,53
+Female,acidic,half,excessive,not prepared,54,45,54
+Female,acidic,half,excessive,partially prepared,70,76,71
+Female,basic,full,moderate,fully prepared,90,91,77
+Female,basic,full,negligible,not prepared,58,62,75
+Male,basic,half,negligible,fully prepared,87,91,84
+Male,acidic,half,excessive,not prepared,31,38,26
+Male,basic,full,excessive,partially prepared,67,65,72
+Female,basic,half,moderate,not prepared,88,85,77
+Male,acidic,half,negligible,not prepared,74,76,91
+Female,basic,half,negligible,not prepared,85,90,83
+Male,basic,full,negligible,fully prepared,69,74,63
+Female,acidic,half,moderate,not prepared,86,84,68
+Male,basic,full,moderate,fully prepared,67,61,59
+Female,acidic,full,moderate,fully prepared,90,91,90
+Male,basic,full,moderate,partially prepared,76,83,71
+Male,basic,full,excessive,fully prepared,62,66,76
+Female,basic,full,moderate,partially prepared,68,72,80
+Male,acidic,half,negligible,partially prepared,64,70,55
+Female,acidic,half,moderate,fully prepared,71,67,76
+Female,acidic,full,moderate,fully prepared,71,68,73
+Female,acidic,full,negligible,fully prepared,59,56,52
+Male,acidic,full,negligible,fully prepared,68,61,68
+Male,basic,full,excessive,not prepared,52,46,59
+Male,acidic,half,moderate,fully prepared,52,54,49
+Male,basic,full,moderate,fully prepared,74,71,70
+Female,acidic,half,moderate,fully prepared,47,56,61
+Male,basic,full,excessive,not prepared,75,74,60
+Male,basic,half,moderate,fully prepared,53,57,64
+Female,basic,half,excessive,partially prepared,82,82,79
+Male,basic,half,excessive,not prepared,85,76,65
+Male,basic,full,moderate,fully prepared,64,70,64
+Female,basic,half,excessive,not prepared,83,90,83
+Female,acidic,half,negligible,partially prepared,88,90,81
+Female,basic,half,negligible,partially prepared,64,68,54
+Female,basic,half,excessive,partially prepared,64,66,68
+Male,basic,half,negligible,partially prepared,48,52,54
+Male,acidic,half,moderate,fully prepared,78,76,59
+Male,basic,full,excessive,not prepared,69,68,66
+Female,acidic,full,moderate,fully prepared,71,72,76
+Male,basic,full,excessive,partially prepared,79,82,74
+Female,acidic,full,moderate,fully prepared,87,92,94
+Male,acidic,half,moderate,not prepared,61,54,63
+Male,basic,full,excessive,not prepared,89,92,95
+Female,basic,half,negligible,not prepared,59,54,40
+Male,basic,full,moderate,not prepared,82,80,82
+Male,acidic,half,excessive,not prepared,70,66,68
+Male,acidic,half,negligible,not prepared,59,54,55
+Female,acidic,half,moderate,partially prepared,78,77,79
+Female,basic,full,negligible,partially prepared,92,87,86
+Male,basic,half,excessive,partially prepared,71,73,76
+Female,basic,half,moderate,not prepared,50,43,64
+Female,acidic,half,moderate,not prepared,49,52,62
+Female,basic,full,negligible,fully prepared,61,62,54
+Male,basic,half,moderate,partially prepared,97,94,77
+Male,basic,full,negligible,fully prepared,87,85,76
+Female,acidic,full,excessive,fully prepared,89,84,74
+Male,basic,half,excessive,not prepared,74,73,66
+Female,basic,half,negligible,partially prepared,78,78,66
+Male,basic,full,excessive,partially prepared,78,79,67
+Female,acidic,full,moderate,fully prepared,49,52,71
+Male,basic,full,excessive,partially prepared,86,84,91
+Female,basic,full,moderate,fully prepared,58,57,69
+Male,basic,half,negligible,not prepared,59,50,54
+Male,acidic,full,moderate,fully prepared,52,49,53
+Female,acidic,half,negligible,fully prepared,60,59,68
+Female,acidic,full,excessive,fully prepared,61,60,56
+Male,basic,half,negligible,fully prepared,53,43,36
+Female,acidic,full,negligible,not prepared,41,47,29
+Male,acidic,half,excessive,fully prepared,74,70,62
+Male,basic,full,negligible,fully prepared,67,73,68
+Female,acidic,full,negligible,partially prepared,54,53,47
+Female,acidic,half,excessive,not prepared,61,58,62
+Female,acidic,half,moderate,not prepared,88,94,79
+Female,acidic,full,negligible,not prepared,69,68,73
+Male,acidic,full,excessive,not prepared,83,83,66
+Female,basic,half,moderate,fully prepared,60,58,51
+Male,acidic,half,negligible,fully prepared,66,62,51
+Female,basic,half,moderate,fully prepared,66,71,85
+Male,acidic,full,moderate,not prepared,92,86,97
+Male,acidic,full,moderate,fully prepared,69,68,75
+Female,acidic,half,excessive,not prepared,82,80,79
+Female,acidic,full,moderate,fully prepared,77,79,81
+Female,basic,full,excessive,partially prepared,95,89,82
+Female,acidic,full,negligible,fully prepared,63,66,64
+Male,basic,full,moderate,not prepared,83,80,78
+Female,acidic,full,moderate,fully prepared,100,97,92
+Female,acidic,full,negligible,not prepared,67,64,72
+Male,acidic,full,excessive,partially prepared,67,64,62
+Male,basic,half,negligible,not prepared,72,69,79
+Female,basic,half,negligible,fully prepared,76,65,79
+Female,acidic,full,negligible,partially prepared,90,88,87
+Male,acidic,full,negligible,fully prepared,48,50,40
+Female,basic,full,negligible,fully prepared,62,64,77
+Male,acidic,half,moderate,partially prepared,45,40,53
+Male,basic,half,negligible,partially prepared,39,33,32
+Male,basic,full,moderate,partially prepared,72,79,55
+Female,basic,half,negligible,fully prepared,67,66,61
+Male,acidic,full,excessive,partially prepared,70,70,53
+Male,basic,half,excessive,partially prepared,66,62,73
+Female,acidic,half,negligible,fully prepared,75,79,74
+Female,acidic,half,negligible,not prepared,74,74,63
+Male,basic,half,moderate,not prepared,90,92,96
+Female,basic,half,excessive,partially prepared,80,80,63
+Female,basic,full,moderate,not prepared,51,46,48
+Male,basic,full,excessive,fully prepared,43,45,48
+Female,basic,half,moderate,fully prepared,100,100,92
+Male,basic,full,excessive,fully prepared,71,78,61
+Female,acidic,full,negligible,fully prepared,48,47,63
+Male,acidic,half,excessive,fully prepared,68,67,68
+Female,acidic,full,negligible,partially prepared,75,70,71
+Female,acidic,full,moderate,fully prepared,96,92,91
+Female,basic,full,excessive,fully prepared,62,56,53
+Male,acidic,half,negligible,not prepared,66,64,50
+Male,acidic,half,moderate,fully prepared,81,71,74
+Female,basic,full,moderate,partially prepared,55,53,40
+Female,basic,half,moderate,fully prepared,51,52,61
+Male,basic,half,negligible,fully prepared,91,89,81
+Male,acidic,full,negligible,fully prepared,56,58,48
+Male,acidic,half,excessive,not prepared,61,68,53
+Male,basic,half,moderate,partially prepared,97,96,81
+Male,basic,full,negligible,fully prepared,79,80,77
+Female,acidic,full,moderate,partially prepared,73,78,63
+Male,basic,half,excessive,partially prepared,75,80,73
+Male,acidic,half,negligible,partially prepared,77,77,69
+Female,basic,full,negligible,fully prepared,76,76,65
+Male,acidic,full,excessive,not prepared,73,73,55
+Male,acidic,full,excessive,partially prepared,63,62,44
+Female,acidic,half,excessive,not prepared,64,65,54
+Female,basic,full,moderate,not prepared,66,65,48
+Female,basic,full,excessive,partially prepared,57,54,58
+Female,acidic,full,moderate,not prepared,62,50,71
+Male,basic,half,moderate,partially prepared,68,64,68
+Male,basic,full,excessive,not prepared,76,73,74
+Male,basic,half,moderate,fully prepared,100,99,92
+Female,acidic,half,moderate,not prepared,79,72,56
+Female,acidic,full,moderate,partially prepared,24,15,30
+Male,acidic,half,excessive,not prepared,54,48,53
+Male,acidic,half,excessive,fully prepared,77,73,69
+Male,basic,full,excessive,fully prepared,82,81,65
+Male,basic,half,negligible,partially prepared,60,63,54
+Male,acidic,half,excessive,fully prepared,29,30,29
+Female,acidic,full,moderate,fully prepared,78,80,76
+Male,acidic,full,excessive,not prepared,57,51,60
+Male,basic,half,moderate,partially prepared,89,90,84
+Male,basic,full,excessive,not prepared,72,62,75
+Male,acidic,half,negligible,fully prepared,84,82,85
+Male,acidic,full,excessive,not prepared,58,54,40
+Female,basic,half,moderate,not prepared,64,62,61
+Female,basic,half,negligible,fully prepared,63,65,58
+Female,basic,full,moderate,partially prepared,60,63,69
+Male,basic,full,excessive,not prepared,59,66,58
+Female,acidic,full,excessive,fully prepared,90,91,94
+Female,acidic,full,excessive,not prepared,77,74,65
+Female,acidic,full,excessive,partially prepared,93,93,82
+Female,basic,half,negligible,fully prepared,68,72,60
+Male,basic,half,excessive,partially prepared,45,38,37
+Female,acidic,full,moderate,fully prepared,78,83,88
+Male,basic,full,negligible,partially prepared,81,84,95
+Male,basic,full,excessive,fully prepared,73,68,65
+Male,basic,half,moderate,not prepared,61,54,35
+Female,acidic,half,negligible,fully prepared,63,56,62
+Female,acidic,half,excessive,partially prepared,51,52,58
+Male,basic,half,negligible,fully prepared,96,86,100
+Male,acidic,full,moderate,not prepared,58,62,61
+Male,basic,full,negligible,fully prepared,97,99,100
+Male,acidic,full,excessive,fully prepared,70,63,69
+Male,basic,full,excessive,not prepared,48,46,61
+Female,acidic,half,moderate,fully prepared,57,46,49
+Male,acidic,half,negligible,partially prepared,51,55,44
+Female,basic,full,excessive,partially prepared,64,70,67
+Female,acidic,half,negligible,partially prepared,60,65,79
+Female,basic,half,negligible,partially prepared,74,81,66
+Female,basic,full,negligible,not prepared,88,85,75
+Female,basic,half,moderate,partially prepared,84,80,84
+Male,basic,half,excessive,not prepared,74,64,71
+Female,basic,half,negligible,fully prepared,80,81,67
+Male,basic,full,moderate,partially prepared,92,88,80
+Female,acidic,half,negligible,partially prepared,76,74,86
+Female,acidic,half,negligible,fully prepared,74,73,76
+Female,basic,half,excessive,partially prepared,52,51,41
+Female,basic,full,negligible,fully prepared,88,90,74
+Female,basic,full,negligible,partially prepared,81,79,72
+Male,basic,full,negligible,not prepared,79,80,74
+Female,acidic,full,excessive,fully prepared,65,60,70
+Female,basic,half,excessive,fully prepared,81,81,65
+Male,basic,half,moderate,fully prepared,70,65,59
+Male,acidic,half,excessive,partially prepared,62,68,64
+Male,acidic,full,moderate,fully prepared,53,55,50
+Male,basic,half,moderate,partially prepared,79,81,69
+Female,acidic,half,negligible,partially prepared,56,53,51
+Female,basic,half,negligible,not prepared,80,76,68
+Male,basic,full,negligible,not prepared,86,98,85
+Female,acidic,half,moderate,partially prepared,70,74,65
+Male,acidic,full,negligible,not prepared,79,79,73
+Female,basic,half,negligible,not prepared,67,67,62
+Male,basic,full,moderate,partially prepared,67,64,77
+Female,acidic,full,negligible,partially prepared,66,61,69
+Male,acidic,half,moderate,not prepared,60,58,43
+Male,acidic,half,excessive,partially prepared,87,85,90
+Female,acidic,half,moderate,partially prepared,77,73,74
+Male,acidic,half,excessive,fully prepared,66,63,73
+Female,acidic,half,excessive,not prepared,71,69,55
+Female,basic,half,negligible,partially prepared,69,67,65
+Female,basic,half,excessive,not prepared,63,63,80
+Male,basic,full,negligible,fully prepared,60,60,50
+Female,basic,full,excessive,fully prepared,73,71,63
+Male,acidic,full,negligible,not prepared,85,87,77
+Female,acidic,full,excessive,partially prepared,74,61,73
+Female,acidic,half,excessive,partially prepared,72,77,81
+Female,acidic,full,negligible,partially prepared,76,68,66
+Male,basic,half,negligible,not prepared,57,50,52
+Male,acidic,full,moderate,not prepared,78,76,69
+Male,acidic,half,moderate,fully prepared,84,84,65
+Female,basic,full,excessive,fully prepared,77,78,69
+Male,basic,half,excessive,not prepared,64,66,50
+Female,acidic,full,negligible,partially prepared,78,76,73
+Male,basic,half,negligible,fully prepared,82,76,70
+Female,acidic,half,excessive,not prepared,75,78,81
+Male,acidic,full,excessive,fully prepared,61,60,63
+Female,basic,full,excessive,fully prepared,72,74,67
+Female,basic,half,excessive,partially prepared,68,60,60
+Male,acidic,half,excessive,partially prepared,55,54,62
+Male,acidic,half,negligible,partially prepared,40,44,29
+Male,acidic,full,negligible,partially prepared,66,68,62
+Female,acidic,half,negligible,partially prepared,99,100,94
+Female,basic,half,excessive,partially prepared,75,68,85
+Male,acidic,full,excessive,not prepared,78,73,77
+Female,basic,full,moderate,fully prepared,58,44,53
+Female,basic,full,excessive,not prepared,90,83,93
+Male,basic,half,negligible,fully prepared,53,53,49
+Male,basic,full,excessive,not prepared,76,78,73
+Female,acidic,full,moderate,fully prepared,74,81,66
+Male,basic,half,moderate,partially prepared,77,73,77
+Female,basic,half,moderate,fully prepared,63,56,49
+Female,basic,full,moderate,partially prepared,89,86,79
+Female,basic,half,excessive,not prepared,82,90,75
+Male,acidic,half,negligible,partially prepared,72,70,59
+Male,acidic,half,excessive,partially prepared,78,79,57
+Male,basic,full,excessive,partially prepared,66,59,66
+Male,acidic,full,excessive,fully prepared,81,82,79
+Male,basic,full,moderate,fully prepared,67,72,57
+Male,basic,full,excessive,fully prepared,84,87,87
+Male,acidic,half,moderate,not prepared,64,67,63
+Male,acidic,half,moderate,partially prepared,63,64,59
+Female,basic,full,negligible,not prepared,72,65,62
+Female,acidic,full,excessive,fully prepared,34,36,46
+Female,basic,half,moderate,not prepared,59,52,66
+Female,basic,half,moderate,fully prepared,87,79,89
+Male,acidic,full,negligible,partially prepared,61,58,42
+Female,acidic,half,excessive,not prepared,84,90,93
+Male,acidic,full,excessive,not prepared,85,85,80
+Male,acidic,half,excessive,partially prepared,100,99,98
+Male,basic,full,negligible,not prepared,81,84,81
+Male,basic,full,negligible,fully prepared,70,74,60
+Male,basic,full,excessive,fully prepared,94,87,76
+Female,acidic,half,negligible,partially prepared,78,72,73
+Male,basic,half,excessive,fully prepared,96,99,96
+Female,basic,full,negligible,not prepared,76,74,76
+Female,acidic,half,negligible,not prepared,73,80,91
+Female,basic,half,negligible,fully prepared,72,70,62
+Female,basic,half,excessive,fully prepared,59,59,55
+Female,acidic,half,moderate,not prepared,90,88,74
+Female,basic,full,negligible,partially prepared,48,42,50
+Female,acidic,full,excessive,fully prepared,43,41,47
+Female,acidic,half,moderate,partially prepared,74,71,81
+Female,basic,full,negligible,fully prepared,75,77,65
+Female,basic,full,moderate,not prepared,51,57,68
+Male,basic,full,moderate,partially prepared,92,84,73
+Male,acidic,full,excessive,partially prepared,39,37,53
+Female,acidic,half,moderate,fully prepared,77,80,68
+Male,acidic,half,moderate,partially prepared,46,43,55
+Female,acidic,half,negligible,fully prepared,89,94,87
+Male,basic,full,excessive,fully prepared,47,44,55
+Female,acidic,half,excessive,partially prepared,58,57,53
+Female,basic,half,moderate,not prepared,57,59,67
+Female,basic,half,excessive,not prepared,79,84,92
+Female,basic,full,negligible,not prepared,66,73,53
+Female,basic,full,negligible,not prepared,71,73,81
+Male,basic,full,excessive,partially prepared,60,55,61
+Male,basic,full,negligible,not prepared,73,72,80
+Male,acidic,half,excessive,not prepared,57,56,37
+Female,acidic,full,moderate,partially prepared,84,82,81
+Male,acidic,full,excessive,not prepared,73,72,59
+Female,acidic,full,negligible,fully prepared,55,47,55
+Female,basic,half,moderate,not prepared,79,74,72
+Female,acidic,full,excessive,partially prepared,75,71,69
+Male,basic,half,excessive,partially prepared,64,68,69
+Male,acidic,full,excessive,not prepared,60,59,50
+Male,acidic,full,excessive,fully prepared,84,86,87
+Female,basic,full,negligible,partially prepared,69,68,71
+Male,acidic,full,excessive,partially prepared,72,65,68
+Female,acidic,half,moderate,fully prepared,77,75,79
+Female,acidic,full,excessive,partially prepared,90,85,77
+Male,acidic,full,excessive,fully prepared,55,53,58
+Female,basic,full,moderate,fully prepared,95,92,84
+Female,acidic,full,moderate,not prepared,58,52,55
+Male,basic,half,excessive,not prepared,68,72,70
+Female,acidic,half,moderate,partially prepared,59,65,52
+Female,basic,full,moderate,not prepared,77,77,69
+Female,basic,full,moderate,partially prepared,72,64,53
+Female,acidic,full,negligible,fully prepared,58,54,48
+Male,acidic,full,negligible,fully prepared,81,86,78
+Male,basic,half,moderate,fully prepared,62,63,62
+Male,acidic,half,negligible,fully prepared,63,59,60
+Female,basic,half,negligible,fully prepared,72,72,74
+Female,basic,half,negligible,partially prepared,75,77,58
+Female,acidic,full,moderate,fully prepared,62,60,76
+Female,basic,full,excessive,fully prepared,71,75,68
+Female,acidic,half,moderate,partially prepared,60,57,58
+Male,acidic,half,moderate,not prepared,48,49,52
+Male,basic,half,excessive,partially prepared,73,74,75
+Female,acidic,full,moderate,not prepared,67,72,52
+Male,basic,full,excessive,not prepared,78,79,62
+Male,basic,full,negligible,fully prepared,65,60,66
+Female,basic,half,moderate,not prepared,58,55,49
+Male,acidic,full,negligible,not prepared,72,70,66
+Male,acidic,half,excessive,partially prepared,44,43,35
+Male,acidic,half,moderate,not prepared,79,82,72
+Female,basic,half,excessive,partially prepared,85,82,94
+Female,acidic,full,excessive,partially prepared,56,57,46
+Female,acidic,half,negligible,fully prepared,90,84,77
+Female,basic,half,negligible,fully prepared,85,82,76
+Male,acidic,full,excessive,fully prepared,59,62,52
+Female,acidic,full,excessive,partially prepared,81,79,91
+Female,acidic,half,moderate,fully prepared,51,44,32
+Female,basic,half,excessive,fully prepared,79,77,72
+Female,basic,half,moderate,fully prepared,38,32,19
+Male,acidic,half,moderate,partially prepared,65,61,68
+Male,basic,full,negligible,partially prepared,65,61,52
+Male,basic,full,excessive,not prepared,62,60,48
+Male,basic,full,moderate,partially prepared,66,70,60
+Female,basic,half,moderate,partially prepared,74,69,66
+Male,basic,full,moderate,fully prepared,84,77,89
+Male,basic,half,negligible,partially prepared,52,51,42
+Female,acidic,full,excessive,partially prepared,68,73,57
+Male,basic,half,excessive,fully prepared,70,70,70
+Female,acidic,half,moderate,fully prepared,84,81,70
+Female,acidic,half,negligible,not prepared,60,54,69
+Female,basic,full,negligible,not prepared,55,57,52
+Female,basic,full,negligible,fully prepared,73,68,67
+Female,basic,half,excessive,partially prepared,80,73,76
+Male,acidic,half,excessive,partially prepared,94,95,87
+Male,acidic,half,excessive,fully prepared,85,87,82
+Male,acidic,full,excessive,partially prepared,76,78,73
+Female,basic,full,excessive,not prepared,81,74,75
+Male,acidic,full,excessive,fully prepared,74,75,64
+Female,basic,full,negligible,partially prepared,45,40,41
+Female,basic,half,excessive,fully prepared,75,69,90
+Male,basic,half,negligible,fully prepared,54,51,59
+Female,basic,full,moderate,partially prepared,31,36,51
+Male,basic,half,moderate,not prepared,47,49,45
+Male,basic,full,negligible,partially prepared,64,67,54
+Male,acidic,full,excessive,fully prepared,84,76,87
+Female,basic,half,negligible,partially prepared,80,83,72
+Male,basic,full,negligible,not prepared,86,87,94
+Male,acidic,half,moderate,fully prepared,59,64,45
+Female,basic,half,moderate,not prepared,70,76,61
+Male,basic,half,negligible,not prepared,72,68,60
+Male,basic,half,excessive,partially prepared,91,88,77
+Male,acidic,half,moderate,fully prepared,90,92,85
+Male,acidic,full,negligible,partially prepared,90,93,78
+Male,acidic,half,excessive,partially prepared,52,51,49
+Female,acidic,full,excessive,not prepared,87,82,71
+Female,basic,full,negligible,fully prepared,58,52,48
+Male,acidic,full,moderate,not prepared,67,58,62
+Male,acidic,half,moderate,not prepared,68,70,56
+Female,acidic,half,negligible,not prepared,69,76,65
+Female,basic,half,excessive,not prepared,86,81,69
+Male,basic,half,negligible,partially prepared,54,53,68
+Male,acidic,half,moderate,fully prepared,60,57,61
+Female,acidic,full,moderate,partially prepared,86,89,74
+Female,basic,half,moderate,partially prepared,60,58,64
+Female,basic,half,excessive,fully prepared,82,89,77
+Female,acidic,half,excessive,fully prepared,50,45,58
+Male,basic,half,excessive,partially prepared,64,74,60
+Female,acidic,half,excessive,not prepared,64,57,73
+Male,basic,half,negligible,fully prepared,82,79,75
+Female,basic,half,negligible,fully prepared,57,53,58
+Female,acidic,half,negligible,not prepared,77,73,66
+Female,basic,full,excessive,not prepared,52,46,39
+Female,basic,full,moderate,not prepared,58,51,64
+Female,basic,full,moderate,not prepared,44,36,23
+Male,basic,full,excessive,fully prepared,77,76,74
+Female,basic,full,moderate,partially prepared,65,64,40
+Female,acidic,half,excessive,fully prepared,85,84,90
+Female,basic,full,excessive,not prepared,85,85,91
+Male,basic,full,negligible,partially prepared,54,50,64
+Female,basic,full,excessive,fully prepared,72,68,59
+Male,basic,half,excessive,partially prepared,75,69,80
+Male,acidic,half,excessive,fully prepared,67,67,71
+Male,basic,half,moderate,fully prepared,68,63,61
+Male,basic,full,excessive,partially prepared,85,93,87
+Female,acidic,full,moderate,partially prepared,67,61,82
+Male,basic,half,excessive,not prepared,64,55,62
+Male,acidic,half,moderate,fully prepared,97,96,97
+Male,acidic,half,negligible,not prepared,68,65,75
+Female,basic,half,excessive,not prepared,79,81,65
+Male,basic,full,moderate,not prepared,49,46,52
+Female,basic,full,moderate,fully prepared,73,72,87
+Female,acidic,full,moderate,not prepared,62,53,53
+Female,basic,full,excessive,fully prepared,86,87,81
+Male,acidic,full,excessive,not prepared,42,38,39
+Male,basic,full,moderate,fully prepared,71,80,71
+Female,basic,full,excessive,not prepared,93,91,97
+Female,basic,half,negligible,fully prepared,82,88,82
+Male,acidic,half,moderate,partially prepared,53,52,59
+Female,basic,full,negligible,partially prepared,42,41,61
+Male,basic,full,negligible,fully prepared,74,72,78
+Female,basic,half,moderate,partially prepared,51,51,49
+Male,basic,half,negligible,partially prepared,58,47,59
+Female,acidic,half,negligible,not prepared,72,76,70
+Male,basic,full,negligible,not prepared,84,78,82
+Male,acidic,half,negligible,partially prepared,90,82,90
+Male,basic,half,excessive,fully prepared,62,61,43
+Female,basic,full,moderate,partially prepared,64,66,80
+Male,basic,half,moderate,fully prepared,82,84,81
+Female,basic,half,excessive,fully prepared,61,54,57
+Female,basic,half,excessive,partially prepared,72,80,59
+Female,basic,half,excessive,fully prepared,76,74,64
+Female,basic,full,negligible,partially prepared,64,66,63
+Female,acidic,full,moderate,fully prepared,70,70,71
+Female,acidic,half,negligible,partially prepared,73,71,64
+Female,acidic,half,excessive,not prepared,46,44,55
+Female,acidic,full,excessive,fully prepared,51,54,51
+Male,basic,half,negligible,not prepared,76,80,62
+Female,basic,full,negligible,fully prepared,100,95,93
+Male,acidic,half,excessive,not prepared,72,59,54
+Male,acidic,half,excessive,fully prepared,65,74,69
+Male,acidic,half,excessive,not prepared,51,48,44
+Male,basic,half,negligible,partially prepared,85,91,86
+Male,acidic,half,excessive,not prepared,92,85,85
+Female,basic,half,negligible,fully prepared,67,73,50
+Male,acidic,full,moderate,partially prepared,74,75,88
+Male,basic,half,excessive,partially prepared,62,69,59
+Female,basic,full,excessive,partially prepared,34,38,32
+Female,acidic,full,moderate,partially prepared,29,27,36
+Male,acidic,half,moderate,fully prepared,78,79,63
+Male,basic,full,excessive,partially prepared,54,63,67
+Female,acidic,full,moderate,not prepared,78,82,65
+Female,acidic,half,excessive,not prepared,84,89,85
+Female,acidic,half,negligible,not prepared,78,74,73
+Female,acidic,full,excessive,not prepared,48,41,34
+Male,acidic,half,negligible,not prepared,100,100,93
+Female,acidic,full,negligible,partially prepared,84,84,67
+Male,acidic,half,moderate,not prepared,77,77,88
+Female,basic,full,excessive,partially prepared,48,51,57
+Female,basic,full,moderate,partially prepared,84,91,79
+Male,basic,full,negligible,fully prepared,75,72,67
+Male,basic,half,negligible,partially prepared,64,70,70
+Female,acidic,full,negligible,not prepared,42,48,50
+Male,basic,half,moderate,not prepared,84,82,69
+Female,acidic,half,moderate,fully prepared,61,66,52
+Female,acidic,full,excessive,fully prepared,62,66,47
+Male,basic,half,moderate,not prepared,61,55,46
+Male,basic,half,excessive,not prepared,70,66,68
+Female,basic,half,negligible,not prepared,100,100,100
+Female,basic,full,excessive,fully prepared,61,52,44
+Male,basic,half,excessive,fully prepared,77,80,57
+Female,basic,full,excessive,partially prepared,96,91,91
+Male,basic,half,negligible,partially prepared,70,67,69
+Female,acidic,half,negligible,partially prepared,53,46,35
+Male,acidic,full,moderate,partially prepared,66,66,72
+Female,basic,half,excessive,partially prepared,65,65,54
+Female,basic,half,negligible,not prepared,70,69,74
+Male,acidic,half,negligible,partially prepared,64,60,74
+Female,acidic,full,moderate,fully prepared,56,52,64
+Male,basic,half,excessive,fully prepared,61,71,65
+Female,acidic,half,excessive,fully prepared,43,44,46
+Female,basic,full,negligible,not prepared,56,51,48
+Female,basic,half,excessive,partially prepared,74,70,67
+Male,basic,full,moderate,fully prepared,57,62,62
+Female,basic,half,moderate,partially prepared,71,73,61
+Male,basic,full,moderate,not prepared,75,74,70
+Female,acidic,full,moderate,fully prepared,87,90,98
+Male,basic,half,excessive,fully prepared,63,58,70
+Female,basic,half,moderate,partially prepared,57,53,67
+Male,acidic,half,moderate,partially prepared,58,57,57
+Male,acidic,full,negligible,partially prepared,81,85,85
+Male,basic,half,excessive,not prepared,68,69,77
+Male,acidic,half,excessive,partially prepared,66,72,72
+Female,acidic,half,moderate,fully prepared,91,96,78
+Male,acidic,full,negligible,not prepared,66,64,81
+Male,basic,half,negligible,partially prepared,62,61,61
+Male,acidic,half,negligible,not prepared,68,61,58
+Male,basic,half,negligible,fully prepared,61,58,54
+Female,acidic,half,negligible,not prepared,82,80,82
+Male,acidic,full,moderate,fully prepared,58,60,49
+Female,basic,full,moderate,partially prepared,50,52,49
+Male,acidic,full,moderate,not prepared,75,73,57
+Female,basic,half,moderate,fully prepared,73,71,94
+Female,acidic,half,negligible,not prepared,77,83,75
+Female,acidic,half,excessive,fully prepared,74,72,74
+Female,acidic,half,negligible,partially prepared,52,54,58
+Male,acidic,half,moderate,partially prepared,69,69,62
+Male,acidic,half,excessive,fully prepared,57,62,72
+Male,acidic,half,moderate,fully prepared,87,81,84
+Female,acidic,half,negligible,fully prepared,100,100,92
+Male,basic,full,excessive,partially prepared,63,59,45
+Female,basic,half,moderate,not prepared,81,71,75
+Female,basic,half,excessive,not prepared,58,64,56
+Female,basic,full,negligible,not prepared,54,53,48
+Male,basic,full,moderate,fully prepared,100,100,100
+Male,basic,full,moderate,partially prepared,76,75,65
+Female,acidic,half,negligible,partially prepared,57,58,72
+Female,basic,full,excessive,fully prepared,70,72,62
+Male,basic,full,negligible,partially prepared,68,64,66
+Female,basic,full,negligible,partially prepared,63,60,63
+Male,basic,half,moderate,fully prepared,76,67,68
+Male,acidic,full,excessive,partially prepared,84,80,75
+Male,acidic,half,negligible,fully prepared,100,100,89
+Male,acidic,half,moderate,partially prepared,72,69,78
+Female,basic,half,excessive,not prepared,50,60,53
+Male,basic,full,excessive,partially prepared,65,61,49
+Female,basic,full,excessive,not prepared,63,67,54
+Male,basic,full,negligible,not prepared,82,77,64
+Female,basic,full,excessive,not prepared,62,60,60
+Female,acidic,full,excessive,partially prepared,65,58,62
+Male,basic,full,excessive,not prepared,41,48,55
+Female,acidic,full,negligible,partially prepared,95,94,91
+Male,acidic,half,excessive,not prepared,24,23,8
+Male,acidic,half,negligible,not prepared,78,78,81
+Male,basic,half,moderate,partially prepared,85,86,79
+Male,basic,half,moderate,not prepared,87,91,78
+Female,acidic,full,negligible,partially prepared,75,82,74
+Female,acidic,half,moderate,not prepared,51,54,57
+Male,basic,full,excessive,not prepared,59,51,40
+Female,basic,half,moderate,partially prepared,75,76,81
+Female,acidic,half,excessive,partially prepared,45,45,44
+Female,basic,half,excessive,not prepared,86,83,67
+Male,acidic,half,negligible,not prepared,81,75,86
+Male,basic,full,moderate,partially prepared,82,78,65
+Female,acidic,half,excessive,partially prepared,76,76,55
+Female,acidic,full,negligible,partially prepared,72,74,62
+Male,basic,full,excessive,partially prepared,63,62,63
+Male,acidic,full,excessive,not prepared,99,95,88
+Male,acidic,half,negligible,fully prepared,55,55,62
+Male,acidic,full,excessive,partially prepared,71,65,59
+Female,acidic,full,moderate,not prepared,78,77,68
+Female,basic,full,moderate,partially prepared,86,86,77
