@@ -29,6 +29,7 @@ class PredictPipeline:
 
 class CustomData:
     def __init__( self,
+        Student_Name: str,
         Gender: str,
         Sleep_type: str,
         screen_time:str,
@@ -36,6 +37,8 @@ class CustomData:
         study_preparation: str,
         Cat_1: int,
         Cat_2: int):
+        
+        self.Student_Name = Student_Name
 
         self.Gender = Gender
 
@@ -54,6 +57,7 @@ class CustomData:
     def get_data_as_data_frame(self):
         try:
             custom_data_input_dict = {
+                
                 "Gender": [self.Gender],
                 "Sleep_type": [self.Sleep_type],
                 "screen_time": [self.screen_time],
@@ -61,6 +65,7 @@ class CustomData:
                 "study_preparation": [self.study_preparation],
                 "Cat_1": [self.Cat_1],
                 "Cat_2": [self. Cat_2],
+                "Student_Name" : [self.Student_Name],
             }
 
             return pd.DataFrame(custom_data_input_dict)

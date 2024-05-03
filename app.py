@@ -17,6 +17,8 @@ def index():
 
 @app.route('/predictdata',methods=['GET','POST'])
 def predict_datapoint():
+    savingAllowed = True #remove and add as function argument
+
     if request.method == 'GET':
         return render_template('home.html')
     else:
@@ -34,13 +36,20 @@ def predict_datapoint():
         )
         pred_df = data.get_data_as_data_frame()
         print(pred_df)
+        
 
         predict_pipeline = PredictPipeline()
         
         results = predict_pipeline.predict(pred_df)
+        
+        if savingAllowed:
+            with open("data.csv", "a") as mFile:
+                
+                mFile.writelines(f"{data.Student_Name},{data.Gender},{data.Sleep_type},{data.Lunch_type},{data.study_preparation},{data.screen_time},{data.Cat_1},{data.Cat_2},{results[0]} \n")
+        
         print("after Prediction")
-        return render_template('home.html',results = results[0::1])
-    
+        return render_template('home.html',results = results[0])
+
 
 if __name__=="__main__":
     app.run(host="0.0.0.0",debug = True)        
