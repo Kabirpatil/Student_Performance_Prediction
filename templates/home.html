@@ -1,156 +1,166 @@
-<html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Exam Performance Prediction</title>
     <style>
+        /* Global Styles */
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Montserrat', sans-serif;
             background-color: #f4f4f4;
             margin: 0;
             padding: 0;
             box-sizing: border-box;
         }
 
+        /* Login Container Styles */
         .login {
             width: 400px;
             margin: 50px auto;
             background-color: #fff;
-            padding: 20px;
-            border-radius: 5px;
-            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
         }
 
+        /* Heading Styles */
         h1 {
             text-align: center;
+            color: #333;
+            margin-bottom: 30px;
+            font-weight: 700;
         }
 
+        /* Form Styles */
         .form-label {
-            font-weight: bold;
+            font-weight: 600;
+            color: #555;
+            margin-bottom: 5px;
         }
 
         .form-control {
             width: 100%;
-            padding: 8px;
-            margin-bottom: 10px;
+            padding: 10px;
+            margin-bottom: 15px;
             border: 1px solid #ccc;
-            border-radius: 3px;
+            border-radius: 5px;
             box-sizing: border-box;
+            font-size: 14px;
         }
 
         .btn-primary {
             width: 100%;
-            padding: 10px;
+            padding: 12px;
             background-color: #007bff;
             color: #fff;
             border: none;
-            border-radius: 3px;
+            border-radius: 5px;
             cursor: pointer;
+            font-size: 16px;
+            font-weight: 600;
+            transition: background-color 0.3s ease;
         }
 
         .btn-primary:hover {
             background-color: #0056b3;
         }
 
+        /* Prediction Result Styles */
         h2 {
             text-align: center;
-            margin-top: 20px;
+            margin-top: 30px;
+            color: #333;
+            font-weight: 600;
+        }
+
+        /* Checkbox Styles */
+        .consent-checkbox {
+            display: flex;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+
+        .consent-checkbox input[type="checkbox"] {
+            margin-right: 10px;
+        }
+
+        .consent-checkbox label {
+            font-size: 14px;
+            color: #555;
         }
     </style>
+</head>
 <body>
     <div class="login">
-       <h1>Student Exam Performance Prediction</h1>
-   
-       <form action="{{ url_for('predict_datapoint')}}" method="POST">
-    
-        <div class="mb-3">
-            <label class="form-label">Student_Name</label>
-            <input class="form-control" type="text" name="Student_Name" placeholder="Enter your Name" required>
-        </div>
-        <div class="mb-3">
-            <label class="form-label">Gender</label>
-            <select class="form-control" name="Gender" placeholder="Enter you Gender" required>
-                <option class="placeholder" selected disabled value="">Select your Gender</option>
-                <option value="Male">
-                    Male
-                </option>
-                <option value="Female">
-                    Female
-                </option>
-            </select>
-        </div>
-        <div class="mb-3">
-            <label class="form-label">Sleep_type</label>
-            <select class="form-control" name="Sleep_type" placeholder="Enter your Sleep_type" required>
-                <option class="placeholder" selected disabled value="Full">Select Sleep_type</option>
-                <option value="full">
-                    full
-                </option>
-                <option value="half">
-                    half
-                </option>
-            </select>
-        </div>
-        <div class="mb-3">
-            <label class="form-label">screen_time</label>
-            <select class="form-control" name="screen_time"
-                placeholder="Enter your screen_time" required>
-                <option class="placeholder" selected disabled value="">Select your screen_time</option>
-                <option value="excessive">
-                    excessive
-                </option>
-                <option value="negligible">
-                    negligible
-                </option>
-                <option value="moderate">
-                    moderate
-                </option>
-            </select>
-        </div>
-        <div class="mb-3">
-            <label class="form-label">Lunch Type</label>
-            <select class="form-control" name="Lunch_type" placeholder="Enter you Lunch" required>
-                <option class="placeholder" selected disabled value="">Select your Lunch Type</option>
-                <option value="acidic">
-                    acidic
-                </option>
-                <option value="basic">
-                    basic
-                </option>
-            </select>
-        </div>
-        <div class="mb-3">
-            <label class="form-label">Study Preparation	</label>
-            <select class="form-control" name="study_preparation" placeholder="Enter you Course"
-                required>
-                <option class="placeholder" selected disabled value="">Select Test_course</option>
-                <option value="not prepared">
-                    not prepared
-                </option>
-                <option value="partially prepared">
-                    partially prepared
-                </option>
-                <option value="fully prepared">
-                    fully prepared
-                </option>
-               
-            </select>
-        </div>
-        <div class="mb-3">
-            <label class="form-label">Cat_1 Score out of 100</label>
-            <input class="form-control" type="number" name="Cat_1"
-                placeholder="Enter your Cat-1 score" min='0' max='100' />
-        </div>
-        <div class="mb-3">
-            <label class="form-label">Cat_2 Score out of 100</label>
-            <input class="form-control" type="number" name="Cat_2"
-                placeholder="Enter your Cat-2 Score" min='0' max='100' />
-        </div>
-        <div>
-            <input type="checkbox"> I conscent my data to be stored.
-        </div>
-        <div class="mb-3">
-            <input class="btn btn-primary" type="submit" value="Predict your Cummalitive Grade Point(CGPA)" required />
-        </div>
-    </form>
-    <h2>
-       THE  prediction is {{results}} CGPA
-    </h2>
-   <body>
+        <h1>Student Exam Performance Prediction</h1>
+        <form action="{{ url_for('predict_datapoint')}}" method="POST">
+            <div class="mb-3">
+                <label class="form-label">Student_Name</label>
+                <input class="form-control" type="text" name="Student_Name" placeholder="Enter your Name" required>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Gender</label>
+                <select class="form-control" name="Gender" placeholder="Enter you Gender" required>
+                    <option class="placeholder" selected disabled value="">Select your Gender</option>
+                    <option value="Male">Male</option>
+                    <option value="Female">Female</option>
+                </select>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Sleep_type</label>
+                <select class="form-control" name="Sleep_type" placeholder="Enter your Sleep_type" required>
+                    <option class="placeholder" selected disabled value="Full">Select Sleep_type</option>
+                    <option value="full">full</option>
+                    <option value="half">half</option>
+                </select>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">screen_time</label>
+                <select class="form-control" name="screen_time" placeholder="Enter your screen_time" required>
+                    <option class="placeholder" selected disabled value="">Select your screen_time</option>
+                    <option value="excessive">excessive</option>
+                    <option value="negligible">negligible</option>
+                    <option value="moderate">moderate</option>
+                </select>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Lunch Type</label>
+                <select class="form-control" name="Lunch_type" placeholder="Enter you Lunch" required>
+                    <option class="placeholder" selected disabled value="">Select your Lunch Type</option>
+                    <option value="acidic">acidic</option>
+                    <option value="basic">basic</option>
+                </select>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Study Preparation</label>
+                <select class="form-control" name="study_preparation" placeholder="Enter you Course" required>
+                    <option class="placeholder" selected disabled value="">Select Test_course</option>
+                    <option value="not prepared">not prepared</option>
+                    <option value="partially prepared">partially prepared</option>
+                    <option value="fully prepared">fully prepared</option>
+                </select>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Cat_1 Score out of 100</label>
+                <input class="form-control" type="number" name="Cat_1" placeholder="Enter your Cat-1 score" min='0' max='100' />
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Cat_2 Score out of 100</label>
+                <input class="form-control" type="number" name="Cat_2" placeholder="Enter your Cat-2 Score" min='0' max='100' />
+            </div>
+            <div class="consent-checkbox">
+                <input type="checkbox" required> <label>I consent to my data being stored.</label>
+            </div>
+            <div class="mb-3">
+                <input class="btn btn-primary" type="submit" value="Predict your Cumulative Grade Point (CGPA)" />
+            </div>
+        </form>
+        <h2>
+            The prediction is {{ results }} CGPA
+        </h2>
+    </div>
+</body>
 </html>

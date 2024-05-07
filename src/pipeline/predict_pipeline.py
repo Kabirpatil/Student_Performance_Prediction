@@ -58,6 +58,7 @@ class CustomData:
         try:
             custom_data_input_dict = {
                 
+                "Student_Name" : [self.Student_Name],
                 "Gender": [self.Gender],
                 "Sleep_type": [self.Sleep_type],
                 "screen_time": [self.screen_time],
@@ -65,7 +66,6 @@ class CustomData:
                 "study_preparation": [self.study_preparation],
                 "Cat_1": [self.Cat_1],
                 "Cat_2": [self. Cat_2],
-                "Student_Name" : [self.Student_Name],
             }
 
             return pd.DataFrame(custom_data_input_dict)

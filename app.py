@@ -24,6 +24,7 @@ def predict_datapoint():
     else:
         data = CustomData(
             
+            Student_Name = request.form.get('Student_Name'),
             Gender = request.form.get('Gender'),
             Sleep_type = request.form.get('Sleep_type'),
             screen_time = request.form.get('screen_time'),
@@ -31,7 +32,7 @@ def predict_datapoint():
             study_preparation = request.form.get('study_preparation'),
             Cat_1 = request.form.get('Cat_1'),
             Cat_2 = request.form.get('Cat_2'),
-            Student_Name = request.form.get('Student_Name'),
+            
 
         )
         pred_df = data.get_data_as_data_frame()
@@ -53,5 +54,4 @@ def predict_datapoint():
 
 if __name__=="__main__":
     app.run(host="0.0.0.0",debug = True)        
-
 
