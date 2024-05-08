@@ -1,3 +1,7 @@
 Student_Name,Gender,Sleep Type,Lunch Type,Study Preparation,Screen Time,CAT-1 Marks,CAT-2 Marks,Predicted CGPA,Rank
-Srushti,Female,half,basic,partially prepared,moderate,60,50,54.46540880503144,1
-Kabir,Male,full,acidic,partially prepared,negligible,45,50,51.75968992248062,2
+kunal,Male,full,basic,fully prepared,negligible,90,85,80.0625,1
+Srushti,Female,half,basic,partially prepared,moderate,60,50,54.46540880503144,2
+Kabir,Male,full,acidic,partially prepared,negligible,45,50,51.75968992248062,3
+Kabir,Male,full,acidic,partially prepared,negligible,45,50,51.75968992248062,3
+harsh,Male,full,basic,partially prepared,negligible,45,47,51.75968992248062,3
+Abhi,Female,full,acidic,not prepared,excessive,20,25,25.8,4

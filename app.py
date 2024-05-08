@@ -15,6 +15,14 @@ app = application
 def index():
     return render_template('index.html') 
 
+@app.route('/login')
+def login():
+    return render_template('login.html') 
+
+@app.route('/home.html')
+def home():
+    return render_template('home.html') 
+
 @app.route('/predictdata',methods=['GET','POST'])
 def predict_datapoint():
     savingAllowed = True #remove and add as function argument
@@ -49,7 +57,27 @@ def predict_datapoint():
                 mFile.writelines(f"{data.Student_Name},{data.Gender},{data.Sleep_type},{data.Lunch_type},{data.study_preparation},{data.screen_time},{data.Cat_1},{data.Cat_2},{results[0]} \n")
         
         print("after Prediction")
+        ranking()
         return render_template('home.html',results = results[0])
+    
+def ranking():
+    import pandas as pd
+
+    # Load the data from the CSV file
+    df = pd.read_csv('data.csv')
+
+    # Sort the data in descending order based on the 'Predicted CGPA' column
+    df = df.sort_values(by='Predicted CGPA', ascending=False)
+
+    # Assign ranks based on predicted CGPA, handling ties by assigning the same rank
+    df['Rank'] = df['Predicted CGPA'].rank(method='dense', ascending=False).astype(int)
+
+    # Reset the index starting from 0
+    df.reset_index(drop=True, inplace=True)
+
+    # Save the ranked data to a new CSV file
+    df.to_csv('ranking.csv', index=False)
+
 
 
 if __name__=="__main__":
